@@ -1,0 +1,1120 @@
+﻿Question_Code,Short_description,Answer_code,Answer_meaning
+CASEID,Case identification number,,
+STATE,State abbreviations,AK,Alaska
+STATE,State abbreviations,AL,Alabama
+STATE,State abbreviations,AR,Arkansas
+STATE,State abbreviations,AZ,Arizona
+STATE,State abbreviations,CA,California
+STATE,State abbreviations,CO,Colorado
+STATE,State abbreviations,CT,Connecticut
+STATE,State abbreviations,DC,District of Columbia
+STATE,State abbreviations,DE,Delaware
+STATE,State abbreviations,FL,Florida
+STATE,State abbreviations,GA,Georgia
+STATE,State abbreviations,HI,Hawaii
+STATE,State abbreviations,IA,Iowa
+STATE,State abbreviations,ID,Idaho
+STATE,State abbreviations,IL,Illinois
+STATE,State abbreviations,IN,Indiana
+STATE,State abbreviations,KS,Kansas
+STATE,State abbreviations,KY,Kentucky
+STATE,State abbreviations,LA,Louisiana
+STATE,State abbreviations,MA,Massachusetts
+STATE,State abbreviations,MD,Maryland
+STATE,State abbreviations,ME,Maine
+STATE,State abbreviations,MI,Michigan
+STATE,State abbreviations,MN,Minnesota
+STATE,State abbreviations,MO,Missouri
+STATE,State abbreviations,MS,Mississippi
+STATE,State abbreviations,MT,Montana
+STATE,State abbreviations,NC,North Carolina
+STATE,State abbreviations,ND,North Dakota
+STATE,State abbreviations,NE,Nebraska
+STATE,State abbreviations,NH,New Hampshire
+STATE,State abbreviations,NJ,New Jersey
+STATE,State abbreviations,NM,New Mexico
+STATE,State abbreviations,NV,Nevada
+STATE,State abbreviations,NY,New York
+STATE,State abbreviations,OH,Ohio
+STATE,State abbreviations,OK,Oklahoma
+STATE,State abbreviations,OR,Oregon
+STATE,State abbreviations,PA,Pennsylvania
+STATE,State abbreviations,PR,Puerto Rico
+STATE,State abbreviations,RI,Rhode Island
+STATE,State abbreviations,SC,South Carolina
+STATE,State abbreviations,SD,South Dakota
+STATE,State abbreviations,TN,Tennessee
+STATE,State abbreviations,TX,Texas
+STATE,State abbreviations,UT,Utah
+STATE,State abbreviations,VA,Virginia
+STATE,State abbreviations,VT,Vermont
+STATE,State abbreviations,WA,Washington
+STATE,State abbreviations,WI,Wisconsin
+STATE,State abbreviations,WV,West Virginia
+STATE,State abbreviations,WY,Wyoming
+STATE,State abbreviations,ZZ,Other jurisdictions
+STFIPS,Census state FIPS code,1,Alabama
+STFIPS,Census state FIPS code,2,Alaska
+STFIPS,Census state FIPS code,4,Arizona
+STFIPS,Census state FIPS code,5,Arkansas
+STFIPS,Census state FIPS code,6,California
+STFIPS,Census state FIPS code,8,Colorado
+STFIPS,Census state FIPS code,9,Connecticut
+STFIPS,Census state FIPS code,10,Delaware
+STFIPS,Census state FIPS code,11,District of Columbia
+STFIPS,Census state FIPS code,12,Florida
+STFIPS,Census state FIPS code,13,Georgia
+STFIPS,Census state FIPS code,15,Hawaii
+STFIPS,Census state FIPS code,16,Idaho
+STFIPS,Census state FIPS code,17,Illinois
+STFIPS,Census state FIPS code,18,Indiana
+STFIPS,Census state FIPS code,19,Iowa
+STFIPS,Census state FIPS code,20,Kansas
+STFIPS,Census state FIPS code,21,Kentucky
+STFIPS,Census state FIPS code,22,Louisiana
+STFIPS,Census state FIPS code,23,Maine
+STFIPS,Census state FIPS code,24,Maryland
+STFIPS,Census state FIPS code,25,Massachusetts
+STFIPS,Census state FIPS code,26,Michigan
+STFIPS,Census state FIPS code,27,Minnesota
+STFIPS,Census state FIPS code,28,Mississippi
+STFIPS,Census state FIPS code,29,Missouri
+STFIPS,Census state FIPS code,30,Montana
+STFIPS,Census state FIPS code,31,Nebraska
+STFIPS,Census state FIPS code,32,Nevada
+STFIPS,Census state FIPS code,33,New Hampshire
+STFIPS,Census state FIPS code,34,New Jersey
+STFIPS,Census state FIPS code,35,New Mexico
+STFIPS,Census state FIPS code,36,New York
+STFIPS,Census state FIPS code,37,North Carolina
+STFIPS,Census state FIPS code,38,North Dakota
+STFIPS,Census state FIPS code,39,Ohio
+STFIPS,Census state FIPS code,40,Oklahoma
+STFIPS,Census state FIPS code,41,Oregon
+STFIPS,Census state FIPS code,42,Pennsylvania
+STFIPS,Census state FIPS code,44,Rhode Island
+STFIPS,Census state FIPS code,45,South Carolina
+STFIPS,Census state FIPS code,46,South Dakota
+STFIPS,Census state FIPS code,47,Tennessee
+STFIPS,Census state FIPS code,48,Texas
+STFIPS,Census state FIPS code,49,Utah
+STFIPS,Census state FIPS code,50,Vermont
+STFIPS,Census state FIPS code,51,Virginia
+STFIPS,Census state FIPS code,53,Washington
+STFIPS,Census state FIPS code,54,West Virginia
+STFIPS,Census state FIPS code,55,Wisconsin
+STFIPS,Census state FIPS code,56,Wyoming
+STFIPS,Census state FIPS code,72,Puerto Rico
+STFIPS,Census state FIPS code,99,Other jurisdictions
+DETOX,Facility offers detoxification (Q.1),0,No
+DETOX,Facility offers detoxification (Q.1),1,Yes
+TREATMT,Facility offers substance use treatment (Q.1),0,No
+TREATMT,Facility offers substance use treatment (Q.1),1,Yes
+SMISEDSUD,Facility offers treatment for co-occurring serious mental illness (SMI)/serious emotional disturbance (SED) and substance use disorders (Q.1),0,No
+SMISEDSUD,Facility offers treatment for co-occurring serious mental illness (SMI)/serious emotional disturbance (SED) and substance use disorders (Q.1),1,Yes
+OWNERSHP,Organization that operates the facility (Q.8),1,Private-for-profit organization
+OWNERSHP,Organization that operates the facility (Q.8),2,Private non-profit organization
+OWNERSHP,Organization that operates the facility (Q.8),3,State government
+OWNERSHP,Organization that operates the facility (Q.8),4,"Local, county, or community government"
+OWNERSHP,Organization that operates the facility (Q.8),5,Tribal government
+OWNERSHP,Organization that operates the facility (Q.8),6,Federal government
+FEDOWN,Federal government agency that operates the facility (Q.8a),.,Logical skip
+FEDOWN,Federal government agency that operates the facility (Q.8a),1,Dept of Veterans Affairs
+FEDOWN,Federal government agency that operates the facility (Q.8a),2,Dept of Defense
+FEDOWN,Federal government agency that operates the facility (Q.8a),3,Indian Health Service
+FEDOWN,Federal government agency that operates the facility (Q.8a),4,Other
+HOSPITAL,Facility is a hospital or located in or operated by a hospital (Q.24),M,Missing
+HOSPITAL,Facility is a hospital or located in or operated by a hospital (Q.24),0,No
+HOSPITAL,Facility is a hospital or located in or operated by a hospital (Q.24),1,Yes
+LOCS,Type of hospital (Q.24a),.,Logical skip
+LOCS,Type of hospital (Q.24a),M,Missing
+LOCS,Type of hospital (Q.24a),1,General hospital (including VA hospitals)
+LOCS,Type of hospital (Q.24a),2,Psychiatric hospital
+LOCS,Type of hospital (Q.24a),3,Other specialty hospital
+LOC5,Facility operates transitional housing or a halfway house for substance use clients (Q.25),0,No
+LOC5,Facility operates transitional housing or a halfway house for substance use clients (Q.25),1,Yes
+OTP,Facility operates an opioid treatment program (Q.13),0,No
+OTP,Facility operates an opioid treatment program (Q.13),1,Yes
+ASSESSMENT,Number of assessment and pre-treatment services offered by this facility (Q.12),0,0 assessment services offered
+ASSESSMENT,Number of assessment and pre-treatment services offered by this facility (Q.12),1,1 assessment services offered
+ASSESSMENT,Number of assessment and pre-treatment services offered by this facility (Q.12),2,2 assessment services offered
+ASSESSMENT,Number of assessment and pre-treatment services offered by this facility (Q.12),3,3 assessment services offered
+ASSESSMENT,Number of assessment and pre-treatment services offered by this facility (Q.12),4,4 assessment services offered
+ASSESSMENT,Number of assessment and pre-treatment services offered by this facility (Q.12),5,5 assessment services offered
+ASSESSMENT,Number of assessment and pre-treatment services offered by this facility (Q.12),6,6 assessment services offered
+ASSESSMENT,Number of assessment and pre-treatment services offered by this facility (Q.12),7,7 assessment services offered
+ASSESSMENT,Number of assessment and pre-treatment services offered by this facility (Q.12),8,8 assessment services offered
+TESTING,Number of testing services offered by this facility (Q.12),0,0 testing services offered
+TESTING,Number of testing services offered by this facility (Q.12),1,1 testing service offered
+TESTING,Number of testing services offered by this facility (Q.12),2,2 testing services offered
+TESTING,Number of testing services offered by this facility (Q.12),3,3 testing services offered
+TESTING,Number of testing services offered by this facility (Q.12),4,4 testing services offered
+TESTING,Number of testing services offered by this facility (Q.12),5,5 testing services offered
+TESTING,Number of testing services offered by this facility (Q.12),6,6 testing services offered
+TESTING,Number of testing services offered by this facility (Q.12),7,7 testing services offered
+TESTING,Number of testing services offered by this facility (Q.12),8,8 testing services offered
+TESTING,Number of testing services offered by this facility (Q.12),9,9 testing services offered
+MEDICAL,Number of medical services offered by this facility (Q.12),0,0 medical services offered
+MEDICAL,Number of medical services offered by this facility (Q.12),1,1 medical service offered
+MEDICAL,Number of medical services offered by this facility (Q.12),2,2 medical services offered
+TRANSITION,Number of transitional services offered by this facility (Q.12),0,0 transitional services offered
+TRANSITION,Number of transitional services offered by this facility (Q.12),1,1 transitional service offered
+TRANSITION,Number of transitional services offered by this facility (Q.12),2,2 transitional services offered
+TRANSITION,Number of transitional services offered by this facility (Q.12),3,3 transitional services offered
+TRANSITION,Number of transitional services offered by this facility (Q.12),4,4 transitional services offered
+RECOVERY,Number of recovery support services offered by this facility (Q.12),0,0 recovery support services offered
+RECOVERY,Number of recovery support services offered by this facility (Q.12),1,1 recovery support service offered
+RECOVERY,Number of recovery support services offered by this facility (Q.12),2,2 recovery support services offered
+RECOVERY,Number of recovery support services offered by this facility (Q.12),3,3 recovery support services offered
+RECOVERY,Number of recovery support services offered by this facility (Q.12),4,4 recovery support services offered
+RECOVERY,Number of recovery support services offered by this facility (Q.12),5,5 recovery support services offered
+RECOVERY,Number of recovery support services offered by this facility (Q.12),6,6 recovery support services offered
+EDUCATION,Number of education and counseling services offered by this facility (Q.12),0,0 education and counseling services offered
+EDUCATION,Number of education and counseling services offered by this facility (Q.12),1,1 education and counseling services offered
+EDUCATION,Number of education and counseling services offered by this facility (Q.12),2,2 education and counseling services offered
+EDUCATION,Number of education and counseling services offered by this facility (Q.12),3,3 education and counseling services offered
+EDUCATION,Number of education and counseling services offered by this facility (Q.12),4,4 education and counseling services offered
+EDUCATION,Number of education and counseling services offered by this facility (Q.12),5,5 education and counseling services offered
+EDUCATION,Number of education and counseling services offered by this facility (Q.12),6,6 education and counseling services offered
+EDUCATION,Number of education and counseling services offered by this facility (Q.12),7,7 education and counseling services offered
+EDUCATION,Number of education and counseling services offered by this facility (Q.12),8,8 education and counseling services offered
+EDUCATION,Number of education and counseling services offered by this facility (Q.12),9,9 education and counseling services offered
+EDUCATION,Number of education and counseling services offered by this facility (Q.12),10,10 education and counseling services offered
+ANCILLARY,Number of ancillary services offered by this facility (Q.12),0,0 ancillary services offered
+ANCILLARY,Number of ancillary services offered by this facility (Q.12),1,1 ancillary service offered
+ANCILLARY,Number of ancillary services offered by this facility (Q.12),2,2 ancillary services offered
+ANCILLARY,Number of ancillary services offered by this facility (Q.12),3,3 ancillary services offered
+ANCILLARY,Number of ancillary services offered by this facility (Q.12),4,4 ancillary services offered
+ANCILLARY,Number of ancillary services offered by this facility (Q.12),5,5 ancillary services offered
+ANCILLARY,Number of ancillary services offered by this facility (Q.12),6,6 ancillary services offered
+ANCILLARY,Number of ancillary services offered by this facility (Q.12),7,7 ancillary services offered
+ANCILLARY,Number of ancillary services offered by this facility (Q.12),8,8 ancillary services offered
+ANCILLARY,Number of ancillary services offered by this facility (Q.12),9,9 ancillary services offered
+OTHER_SRVC,Number of other services offered by this facility (Q.12),0,0 other services offered
+OTHER_SRVC,Number of other services offered by this facility (Q.12),1,1 other service offered
+OTHER_SRVC,Number of other services offered by this facility (Q.12),2,2 other services offered
+OTHER_SRVC,Number of other services offered by this facility (Q.12),3,3 other services offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),0,0 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),1,1 pharmacotherapy offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),2,2 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),3,3 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),4,4 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),5,5 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),6,6 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),7,7 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),8,8 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),9,9 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),10,10 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),11,11 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),12,12 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),13,13 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),14,14 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),15,15 pharmacotherapies offered
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12),16,16 pharmacotherapies offered
+SRVC89,Facility offers screening for substance abuse (Q.12),0,No
+SRVC89,Facility offers screening for substance abuse (Q.12),1,Yes
+SRVC90,Facility offers screening for mental health disorders (Q.12),0,No
+SRVC90,Facility offers screening for mental health disorders (Q.12),1,Yes
+SRVC1,Facility offers comprehensive substance abuse assessment or diagnosis (Q.12),0,No
+SRVC1,Facility offers comprehensive substance abuse assessment or diagnosis (Q.12),1,Yes
+SRVC2,Facility offers comprehensive mental health assessment or diagnosis (Q.12),0,No
+SRVC2,Facility offers comprehensive mental health assessment or diagnosis (Q.12),1,Yes
+SRVC107,Facility offers screening for tobacco use (Q.12),0,No
+SRVC107,Facility offers screening for tobacco use (Q.12),1,Yes
+SRVC91,Facility offers outreach to persons in the community who may need treatment (Q.12),0,No
+SRVC91,Facility offers outreach to persons in the community who may need treatment (Q.12),1,Yes
+SRVC93,Facility offers interim services for clients when immediate admission is not possible (Q.12),0,No
+SRVC93,Facility offers interim services for clients when immediate admission is not possible (Q.12),1,Yes
+SRVCEDCON,Facility offers professional interventionist/educational consultant (Q.12),0,No
+SRVCEDCON,Facility offers professional interventionist/educational consultant (Q.12),1,Yes
+SRVCORAL,Facility offers drug and alcohol oral fluid testing (Q.12),0,No
+SRVCORAL,Facility offers drug and alcohol oral fluid testing (Q.12),1,Yes
+SRVC10,Facility offers breathalyzer or other blood alcohol testing (Q.12),0,No
+SRVC10,Facility offers breathalyzer or other blood alcohol testing (Q.12),1,Yes
+SRVC11,Facility offers drug or alcohol urine screening (Q.12),0,No
+SRVC11,Facility offers drug or alcohol urine screening (Q.12),1,Yes
+SRVC73,Facility offers screening for hepatitis B (Q.12),0,No
+SRVC73,Facility offers screening for hepatitis B (Q.12),1,Yes
+SRVC74,Facility offers screening for hepatitis C (Q.12),0,No
+SRVC74,Facility offers screening for hepatitis C (Q.12),1,Yes
+SRVC14,Facility offers HIV testing (Q.12),0,No
+SRVC14,Facility offers HIV testing (Q.12),1,Yes
+SRVC15,Facility offers STD testing (Q.12),0,No
+SRVC15,Facility offers STD testing (Q.12),1,Yes
+SRVC16,Facility offers TB screening (Q.12),0,No
+SRVC16,Facility offers TB screening (Q.12),1,Yes
+SRVCMETA,Facility offers testing for metabolic syndrome (Q.12),0,No
+SRVCMETA,Facility offers testing for metabolic syndrome (Q.12),1,Yes
+SRVCHAV,Facility offers hepatitis A (HAV) vaccination (Q.12),0,No
+SRVCHAV,Facility offers hepatitis A (HAV) vaccination (Q.12),1,Yes
+SRVCHBV,Facility offers hepatitis B (HBV) vaccination (Q.12),0,No
+SRVCHBV,Facility offers hepatitis B (HBV) vaccination (Q.12),1,Yes
+SRVC37,Facility offers discharge planning (Q.12),0,No
+SRVC37,Facility offers discharge planning (Q.12),1,Yes
+SRVC27,Facility offers aftercare/continuing care (Q.12),0,No
+SRVC27,Facility offers aftercare/continuing care (Q.12),1,Yes
+SRVCODED,Facility offers naloxone and overdose education (Q.12),0,No
+SRVCODED,Facility offers naloxone and overdose education (Q.12),1,Yes
+SRVCOUTCM,Facility offers outcome follow-up after discharge (Q.12),0,No
+SRVCOUTCM,Facility offers outcome follow-up after discharge (Q.12),1,Yes
+SRVC97,Facility offers mentoring/peer support (Q.12),0,No
+SRVC97,Facility offers mentoring/peer support (Q.12),1,Yes
+SRVC102,Facility offers self-help groups (Q.12),0,No
+SRVC102,Facility offers self-help groups (Q.12),1,Yes
+SRVC39,Facility offers assistance in locating housing for clients (Q.12),0,No
+SRVC39,Facility offers assistance in locating housing for clients (Q.12),1,Yes
+SRVC38,Facility offers employment counseling or training for clients (Q.12),0,No
+SRVC38,Facility offers employment counseling or training for clients (Q.12),1,Yes
+SRVC36,"Facility offers assistance with obtaining social services (for example, Medicaid, WIC, SSI, SSDI) (Q.12)",0,No
+SRVC36,"Facility offers assistance with obtaining social services (for example, Medicaid, WIC, SSI, SSDI) (Q.12)",1,Yes
+SRVCCOACH,Facility offers recovery coach (Q.12),0,No
+SRVCCOACH,Facility offers recovery coach (Q.12),1,Yes
+SRVC24,"Facility offers HIV or AIDS education, counseling, or support (Q.12)",0,No
+SRVC24,"Facility offers HIV or AIDS education, counseling, or support (Q.12)",1,Yes
+SRVC104,"Facility offers hepatitis education, counseling, or support (Q.12)",0,No
+SRVC104,"Facility offers hepatitis education, counseling, or support (Q.12)",1,Yes
+SRVC99,Facility offers health education other than HIV/AIDS or hepatitis (Q.12),0,No
+SRVC99,Facility offers health education other than HIV/AIDS or hepatitis (Q.12),1,Yes
+SRVC100,Facility offers substance abuse education (Q.12),0,No
+SRVC100,Facility offers substance abuse education (Q.12),1,Yes
+SRVC105,Facility offers smoking/tobacco cessation counseling (Q.12),0,No
+SRVC105,Facility offers smoking/tobacco cessation counseling (Q.12),1,Yes
+SRVC6,Facility offers individual counseling (Q.12),0,No
+SRVC6,Facility offers individual counseling (Q.12),1,Yes
+SRVC5,Facility offers group counseling (Q.12),0,No
+SRVC5,Facility offers group counseling (Q.12),1,Yes
+SRVC4,Facility offers family counseling (Q.12),0,No
+SRVC4,Facility offers family counseling (Q.12),1,Yes
+SRVC103,Facility offers marital/couples counseling (Q.12),0,No
+SRVC103,Facility offers marital/couples counseling (Q.12),1,Yes
+SRVCVOCED,Facility offers vocational training or educational support (Q.12),0,No
+SRVCVOCED,Facility offers vocational training or educational support (Q.12),1,Yes
+SRVC49,Facility offers case management services (Q.12),0,No
+SRVC49,Facility offers case management services (Q.12),1,Yes
+SRVC96,Facility offers social skills development (Q.12),0,No
+SRVC96,Facility offers social skills development (Q.12),1,Yes
+SRVC50,Facility offers child care for clients' children (Q.12),0,No
+SRVC50,Facility offers child care for clients' children (Q.12),1,Yes
+SRVC52,Facility offers domestic (family or partner) violence services (Q.12),0,No
+SRVC52,Facility offers domestic (family or partner) violence services (Q.12),1,Yes
+SRVC98,Facility offers early intervention for HIV (Q.12),0,No
+SRVC98,Facility offers early intervention for HIV (Q.12),1,Yes
+SRVC59,Facility offers transportation assistance to treatment (Q.12),0,No
+SRVC59,Facility offers transportation assistance to treatment (Q.12),1,Yes
+SRVC101,Facility offers mental health services (Q.12),0,No
+SRVC101,Facility offers mental health services (Q.12),1,Yes
+SRVC48,Facility offers acupuncture (Q.12),0,No
+SRVC48,Facility offers acupuncture (Q.12),1,Yes
+SRVC75,Facility offers residential beds for clients' children (Q.12),0,No
+SRVC75,Facility offers residential beds for clients' children (Q.12),1,Yes
+SRVC117,Facility offers treatment services for gambling disorder (Q.12),0,No
+SRVC117,Facility offers treatment services for gambling disorder (Q.12),1,Yes
+SRVC118,Facility offers treatment services for Internet use disorder (Q.12),0,No
+SRVC118,Facility offers treatment services for Internet use disorder (Q.12),1,Yes
+SRVC119,Facility offers treatment services for other addiction disorder (non-substance abuse) (Q.12),0,No
+SRVC119,Facility offers treatment services for other addiction disorder (non-substance abuse) (Q.12),1,Yes
+SRVC70,Facility offers disulfram (Antabuse¬Æ) pharmacotherapy services (Q.12),0,No
+SRVC70,Facility offers disulfram (Antabuse¬Æ) pharmacotherapy services (Q.12),1,Yes
+SRVC71,Facility offers naltrexone (oral) pharmacotherapy services (Q.12),0,No
+SRVC71,Facility offers naltrexone (oral) pharmacotherapy services (Q.12),1,Yes
+SRVC108,"Facility offers naltrexone (extended-release, injectable, for example, Vivitrol¬Æ) pharmacotherapy services (Q.12)",0,No
+SRVC108,"Facility offers naltrexone (extended-release, injectable, for example, Vivitrol¬Æ) pharmacotherapy services (Q.12)",1,Yes
+SRVC88,Facility offers acamprosate (Campral¬Æ) pharmacotherapy services (Q.12),0,No
+SRVC88,Facility offers acamprosate (Campral¬Æ) pharmacotherapy services (Q.12),1,Yes
+SRVC94,Facility offers nicotine replacement pharmacotherapy services (Q.12),0,No
+SRVC94,Facility offers nicotine replacement pharmacotherapy services (Q.12),1,Yes
+SRVC106,"Facility offers non-nicotine smoking/tobacco cessation medications (for example, bupropion, varenicline) (Q.12)",0,No
+SRVC106,"Facility offers non-nicotine smoking/tobacco cessation medications (for example, bupropion, varenicline) (Q.12)",1,Yes
+SRVC95,Facility offers medications for psychiatric disorders (Q.12),0,No
+SRVC95,Facility offers medications for psychiatric disorders (Q.12),1,Yes
+SRVC85,Facility offers methadone pharmacotherapy services (Q.12),0,No
+SRVC85,Facility offers methadone pharmacotherapy services (Q.12),1,Yes
+SRVC87,Facility offers buprenorphine with naloxone pharmacotherapy services (Q.12),0,No
+SRVC87,Facility offers buprenorphine with naloxone pharmacotherapy services (Q.12),1,Yes
+SRVC86,Facility offers buprenorphine without naloxone pharmacotherapy services (Q.12),0,No
+SRVC86,Facility offers buprenorphine without naloxone pharmacotherapy services (Q.12),1,Yes
+SRVC129,Facility offers buprenorphine sub-dermal implant (Probuphine¬Æ) pharmacotherapy services (Q.12),0,No
+SRVC129,Facility offers buprenorphine sub-dermal implant (Probuphine¬Æ) pharmacotherapy services (Q.12),1,Yes
+SRVC130,"Facility offers buprenorphine (extended-release, injectable, for example, Sublocade¬Æ) pharmacotherapy services (Q.12)",0,No
+SRVC130,"Facility offers buprenorphine (extended-release, injectable, for example, Sublocade¬Æ) pharmacotherapy services (Q.12)",1,Yes
+SRVCMEDHIV,"Facility offers medications for HIV treatment (for example, antiretroviral medications such as tenofovir, efavirenz, emtricitabine, atazanavir, and lamivudine) (Q.12)",0,No
+SRVCMEDHIV,"Facility offers medications for HIV treatment (for example, antiretroviral medications such as tenofovir, efavirenz, emtricitabine, atazanavir, and lamivudine) (Q.12)",1,Yes
+SRVCMEDHCV,"Facility offers medications for hepatitis C (HCV) treatment (for example, sofosbuvir, ledipasvir, interferon, peginterferon, ribavirin) (Q.12)",0,No
+SRVCMEDHCV,"Facility offers medications for hepatitis C (HCV) treatment (for example, sofosbuvir, ledipasvir, interferon, peginterferon, ribavirin) (Q.12)",1,Yes
+SRVCMEDLOFE,Facility offers lofexidine pharmacotherapy services (Q.12),0,No
+SRVCMEDLOFE,Facility offers lofexidine pharmacotherapy services (Q.12),1,Yes
+SRVCMEDCLON,Facility offers clonidine pharmacotherapy services (Q.12),0,No
+SRVCMEDCLON,Facility offers clonidine pharmacotherapy services (Q.12),1,Yes
+SRVC30,Facility has a tailored program for adolescents (Q.19a),M,Missing
+SRVC30,Facility has a tailored program for adolescents (Q.19a),0,No
+SRVC30,Facility has a tailored program for adolescents (Q.19a),1,Yes
+SRVC120,Facility has a tailored program for young adults (Q.19a),M,Missing
+SRVC120,Facility has a tailored program for young adults (Q.19a),0,No
+SRVC120,Facility has a tailored program for young adults (Q.19a),1,Yes
+SRVC34,Facility has a tailored program for adult women (Q.19a),M,Missing
+SRVC34,Facility has a tailored program for adult women (Q.19a),0,No
+SRVC34,Facility has a tailored program for adult women (Q.19a),1,Yes
+SRVC33,Facility has a tailored program for pregnant/postpartum women (Q.19a),M,Missing
+SRVC33,Facility has a tailored program for pregnant/postpartum women (Q.19a),0,No
+SRVC33,Facility has a tailored program for pregnant/postpartum women (Q.19a),1,Yes
+SRVC64,Facility has a tailored program for adult men (Q.19a),M,Missing
+SRVC64,Facility has a tailored program for adult men (Q.19a),0,No
+SRVC64,Facility has a tailored program for adult men (Q.19a),1,Yes
+SRVC63,Facility has a tailored program for seniors or older adults (Q.19a),M,Missing
+SRVC63,Facility has a tailored program for seniors or older adults (Q.19a),0,No
+SRVC63,Facility has a tailored program for seniors or older adults (Q.19a),1,Yes
+SRVC62,"Facility has a tailored program for lesbian, gay, bisexual, transgender (LGBT) clients (Q.19a)",M,Missing
+SRVC62,"Facility has a tailored program for lesbian, gay, bisexual, transgender (LGBT) clients (Q.19a)",0,No
+SRVC62,"Facility has a tailored program for lesbian, gay, bisexual, transgender (LGBT) clients (Q.19a)",1,Yes
+SRVC113,Facility has a tailored program for veterans (Q.19a),M,Missing
+SRVC113,Facility has a tailored program for veterans (Q.19a),0,No
+SRVC113,Facility has a tailored program for veterans (Q.19a),1,Yes
+SRVC114,Facility has a tailored program for active duty military (Q.19a),M,Missing
+SRVC114,Facility has a tailored program for active duty military (Q.19a),0,No
+SRVC114,Facility has a tailored program for active duty military (Q.19a),1,Yes
+SRVC115,Facility has a tailored program for members of military families (Q.19a),M,Missing
+SRVC115,Facility has a tailored program for members of military families (Q.19a),0,No
+SRVC115,Facility has a tailored program for members of military families (Q.19a),1,Yes
+SRVC61,Facility has a tailored program for criminal justice clients (other than DUI/DWI) (Q.19a),M,Missing
+SRVC61,Facility has a tailored program for criminal justice clients (other than DUI/DWI) (Q.19a),0,No
+SRVC61,Facility has a tailored program for criminal justice clients (other than DUI/DWI) (Q.19a),1,Yes
+SRVC31,Facility has a tailored program for clients with co-occurring mental and substance use disorders (Q.19a),M,Missing
+SRVC31,Facility has a tailored program for clients with co-occurring mental and substance use disorders (Q.19a),0,No
+SRVC31,Facility has a tailored program for clients with co-occurring mental and substance use disorders (Q.19a),1,Yes
+SRVCPAINSA,Facility has a tailored program for clients with co-occurring pain and substance use (Q.19a),M,Missing
+SRVCPAINSA,Facility has a tailored program for clients with co-occurring pain and substance use (Q.19a),0,No
+SRVCPAINSA,Facility has a tailored program for clients with co-occurring pain and substance use (Q.19a),1,Yes
+SRVC32,Facility has a tailored program for clients with HIV or AIDS (Q.19a),M,Missing
+SRVC32,Facility has a tailored program for clients with HIV or AIDS (Q.19a),0,No
+SRVC32,Facility has a tailored program for clients with HIV or AIDS (Q.19a),1,Yes
+SRVC121,Facility has a tailored program for clients who have experienced sexual abuse (Q.19a),M,Missing
+SRVC121,Facility has a tailored program for clients who have experienced sexual abuse (Q.19a),0,No
+SRVC121,Facility has a tailored program for clients who have experienced sexual abuse (Q.19a),1,Yes
+SRVC122,"Facility has a tailored program for clients who have experienced intimate partner violence, domestic violence (Q.19a)",M,Missing
+SRVC122,"Facility has a tailored program for clients who have experienced intimate partner violence, domestic violence (Q.19a)",0,No
+SRVC122,"Facility has a tailored program for clients who have experienced intimate partner violence, domestic violence (Q.19a)",1,Yes
+SRVC116,Facility has a tailored program for clients who have experienced trauma (Q.19a),M,Missing
+SRVC116,Facility has a tailored program for clients who have experienced trauma (Q.19a),0,No
+SRVC116,Facility has a tailored program for clients who have experienced trauma (Q.19a),1,Yes
+SRVC35,Facility has a tailored program for other types of clients (Q.19a),0,No
+SRVC35,Facility has a tailored program for other types of clients (Q.19a),1,Yes
+CTYPE4,Facility offers any hospital inpatient substance use service (Q.9),0,No
+CTYPE4,Facility offers any hospital inpatient substance use service (Q.9),1,Yes
+CTYPEHI1,Facility offers hospital inpatient detoxification (Q.9a),.,Logical skip
+CTYPEHI1,Facility offers hospital inpatient detoxification (Q.9a),0,No
+CTYPEHI1,Facility offers hospital inpatient detoxification (Q.9a),1,Yes
+CTYPEHI2,Facility offers hospital inpatient treatment services (Q.9a),.,Logical skip
+CTYPEHI2,Facility offers hospital inpatient treatment services (Q.9a),0,No
+CTYPEHI2,Facility offers hospital inpatient treatment services (Q.9a),1,Yes
+CTYPE7,Facility offers non-hospital residential treatment services (Q.10),0,No
+CTYPE7,Facility offers non-hospital residential treatment services (Q.10),1,Yes
+CTYPERC1,Facility offers non-hospital residential detoxification (Q.10a),.,Logical skip
+CTYPERC1,Facility offers non-hospital residential detoxification (Q.10a),0,No
+CTYPERC1,Facility offers non-hospital residential detoxification (Q.10a),1,Yes
+CTYPERC3,Facility offers non-hospital residential short-term treatment (Q.10a),.,Logical skip
+CTYPERC3,Facility offers non-hospital residential short-term treatment (Q.10a),0,No
+CTYPERC3,Facility offers non-hospital residential short-term treatment (Q.10a),1,Yes
+CTYPERC4,Facility offers non-hospital residential long-term treatment (Q.10a),.,Logical skip
+CTYPERC4,Facility offers non-hospital residential long-term treatment (Q.10a),0,No
+CTYPERC4,Facility offers non-hospital residential long-term treatment (Q.10a),1,Yes
+CTYPE1,Facility offers any outpatient substance abuse service (Q.11),0,No
+CTYPE1,Facility offers any outpatient substance abuse service (Q.11),1,Yes
+CTYPE6,Facility offers outpatient detoxification (Q.11a),.,Logical skip
+CTYPE6,Facility offers outpatient detoxification (Q.11a),0,No
+CTYPE6,Facility offers outpatient detoxification (Q.11a),1,Yes
+CTYPEML,Facility offers outpatient methadone/buprenorphine maintenance or naltrexone treatment (Q.11a),.,Logical skip
+CTYPEML,Facility offers outpatient methadone/buprenorphine maintenance or naltrexone treatment (Q.11a),0,No
+CTYPEML,Facility offers outpatient methadone/buprenorphine maintenance or naltrexone treatment (Q.11a),1,Yes
+CTYPEOP,Facility offers outpatient day treatment or partial hospitalization (Q.11a),.,Logical skip
+CTYPEOP,Facility offers outpatient day treatment or partial hospitalization (Q.11a),0,No
+CTYPEOP,Facility offers outpatient day treatment or partial hospitalization (Q.11a),1,Yes
+CTYPE2,Facility offers intensive outpatient treatment services (Q.11a),.,Logical skip
+CTYPE2,Facility offers intensive outpatient treatment services (Q.11a),0,No
+CTYPE2,Facility offers intensive outpatient treatment services (Q.11a),1,Yes
+CTYPE3,Facility offers regular outpatient treatment services (Q.11a),.,Logical skip
+CTYPE3,Facility offers regular outpatient treatment services (Q.11a),0,No
+CTYPE3,Facility offers regular outpatient treatment services (Q.11a),1,Yes
+SIGNLANG,Facility provides substance use treatment services in sign language (Q.17),M,Missing
+SIGNLANG,Facility provides substance use treatment services in sign language (Q.17),0,No
+SIGNLANG,Facility provides substance use treatment services in sign language (Q.17),1,Yes
+LANG,Facility provides substance use treatment in a language other than English (Q.18),M,Missing
+LANG,Facility provides substance use treatment in a language other than English (Q.18),0,No
+LANG,Facility provides substance use treatment in a language other than English (Q.18),1,Yes
+LANG1,Staff counselors provide substance use treatment in Hopi (Q.18b),.,Logical skip
+LANG1,Staff counselors provide substance use treatment in Hopi (Q.18b),M,Missing
+LANG1,Staff counselors provide substance use treatment in Hopi (Q.18b),0,No
+LANG1,Staff counselors provide substance use treatment in Hopi (Q.18b),1,Yes
+LANG2,Staff counselors provide substance use treatment in Lakota (Q.18b),.,Logical skip
+LANG2,Staff counselors provide substance use treatment in Lakota (Q.18b),M,Missing
+LANG2,Staff counselors provide substance use treatment in Lakota (Q.18b),0,No
+LANG2,Staff counselors provide substance use treatment in Lakota (Q.18b),1,Yes
+LANG3,Staff counselors provide substance use treatment in Navajo (Q.18b),.,Logical skip
+LANG3,Staff counselors provide substance use treatment in Navajo (Q.18b),M,Missing
+LANG3,Staff counselors provide substance use treatment in Navajo (Q.18b),0,No
+LANG3,Staff counselors provide substance use treatment in Navajo (Q.18b),1,Yes
+LANG4,Staff counselors provide substance use treatment in Yupik (Q.18b),.,Logical skip
+LANG4,Staff counselors provide substance use treatment in Yupik (Q.18b),M,Missing
+LANG4,Staff counselors provide substance use treatment in Yupik (Q.18b),0,No
+LANG4,Staff counselors provide substance use treatment in Yupik (Q.18b),1,Yes
+LANG5,Staff counselors provide substance use treatment in other American Indian or Alaska Native language (Q.18b),.,Logical skip
+LANG5,Staff counselors provide substance use treatment in other American Indian or Alaska Native language (Q.18b),M,Missing
+LANG5,Staff counselors provide substance use treatment in other American Indian or Alaska Native language (Q.18b),0,No
+LANG5,Staff counselors provide substance use treatment in other American Indian or Alaska Native language (Q.18b),1,Yes
+LANG6,Staff counselors provide substance use treatment in Arabic (Q.18b),.,Logical skip
+LANG6,Staff counselors provide substance use treatment in Arabic (Q.18b),M,Missing
+LANG6,Staff counselors provide substance use treatment in Arabic (Q.18b),0,No
+LANG6,Staff counselors provide substance use treatment in Arabic (Q.18b),1,Yes
+LANG7,Staff counselors provide substance use treatment in any Chinese language (Q.18b),.,Logical skip
+LANG7,Staff counselors provide substance use treatment in any Chinese language (Q.18b),M,Missing
+LANG7,Staff counselors provide substance use treatment in any Chinese language (Q.18b),0,No
+LANG7,Staff counselors provide substance use treatment in any Chinese language (Q.18b),1,Yes
+LANG8,Staff counselors provide substance use treatment in Creole (Q.18b),.,Logical skip
+LANG8,Staff counselors provide substance use treatment in Creole (Q.18b),M,Missing
+LANG8,Staff counselors provide substance use treatment in Creole (Q.18b),0,No
+LANG8,Staff counselors provide substance use treatment in Creole (Q.18b),1,Yes
+LANG9,Staff counselors provide substance use treatment in French (Q.18b),.,Logical skip
+LANG9,Staff counselors provide substance use treatment in French (Q.18b),M,Missing
+LANG9,Staff counselors provide substance use treatment in French (Q.18b),0,No
+LANG9,Staff counselors provide substance use treatment in French (Q.18b),1,Yes
+LANG10,Staff counselors provide substance use treatment in German (Q.18b),.,Logical skip
+LANG10,Staff counselors provide substance use treatment in German (Q.18b),M,Missing
+LANG10,Staff counselors provide substance use treatment in German (Q.18b),0,No
+LANG10,Staff counselors provide substance use treatment in German (Q.18b),1,Yes
+LANG11,Staff counselors provide substance use treatment in Hmong (Q.18b),.,Logical skip
+LANG11,Staff counselors provide substance use treatment in Hmong (Q.18b),M,Missing
+LANG11,Staff counselors provide substance use treatment in Hmong (Q.18b),0,No
+LANG11,Staff counselors provide substance use treatment in Hmong (Q.18b),1,Yes
+LANG12,Staff counselors provide substance use treatment in Korean (Q.18b),.,Logical skip
+LANG12,Staff counselors provide substance use treatment in Korean (Q.18b),M,Missing
+LANG12,Staff counselors provide substance use treatment in Korean (Q.18b),0,No
+LANG12,Staff counselors provide substance use treatment in Korean (Q.18b),1,Yes
+LANG13,Staff counselors provide substance use treatment in Polish (Q.18b),.,Logical skip
+LANG13,Staff counselors provide substance use treatment in Polish (Q.18b),M,Missing
+LANG13,Staff counselors provide substance use treatment in Polish (Q.18b),0,No
+LANG13,Staff counselors provide substance use treatment in Polish (Q.18b),1,Yes
+LANG14,Staff counselors provide substance use treatment in Portuguese (Q.18b),.,Logical skip
+LANG14,Staff counselors provide substance use treatment in Portuguese (Q.18b),M,Missing
+LANG14,Staff counselors provide substance use treatment in Portuguese (Q.18b),0,No
+LANG14,Staff counselors provide substance use treatment in Portuguese (Q.18b),1,Yes
+LANG15,Staff counselors provide substance use treatment in Russian (Q.18b),.,Logical skip
+LANG15,Staff counselors provide substance use treatment in Russian (Q.18b),M,Missing
+LANG15,Staff counselors provide substance use treatment in Russian (Q.18b),0,No
+LANG15,Staff counselors provide substance use treatment in Russian (Q.18b),1,Yes
+LANG16,Staff counselors provide substance use treatment in Spanish (Q.18a1),.,Logical skip
+LANG16,Staff counselors provide substance use treatment in Spanish (Q.18a1),M,Missing
+LANG16,Staff counselors provide substance use treatment in Spanish (Q.18a1),0,No
+LANG16,Staff counselors provide substance use treatment in Spanish (Q.18a1),1,Yes
+LANG17,Staff counselors provide substance use treatment in Vietnamese (Q.18b),.,Logical skip
+LANG17,Staff counselors provide substance use treatment in Vietnamese (Q.18b),M,Missing
+LANG17,Staff counselors provide substance use treatment in Vietnamese (Q.18b),0,No
+LANG17,Staff counselors provide substance use treatment in Vietnamese (Q.18b),1,Yes
+LANG18,Staff counselors provide substance use treatment in any other language (Q.18b),.,Logical skip
+LANG18,Staff counselors provide substance use treatment in any other language (Q.18b),M,Missing
+LANG18,Staff counselors provide substance use treatment in any other language (Q.18b),0,No
+LANG18,Staff counselors provide substance use treatment in any other language (Q.18b),1,Yes
+LANG19,Staff counselors provide substance use treatment in Italian (Q.18b),.,Logical skip
+LANG19,Staff counselors provide substance use treatment in Italian (Q.18b),M,Missing
+LANG19,Staff counselors provide substance use treatment in Italian (Q.18b),0,No
+LANG19,Staff counselors provide substance use treatment in Italian (Q.18b),1,Yes
+LANG20,Staff counselors provide substance use treatment in Tagalog (Q.18b),.,Logical skip
+LANG20,Staff counselors provide substance use treatment in Tagalog (Q.18b),M,Missing
+LANG20,Staff counselors provide substance use treatment in Tagalog (Q.18b),0,No
+LANG20,Staff counselors provide substance use treatment in Tagalog (Q.18b),1,Yes
+LANG21,Staff counselors provide substance use treatment in Ojibwa (Q.18b),.,Logical skip
+LANG21,Staff counselors provide substance use treatment in Ojibwa (Q.18b),M,Missing
+LANG21,Staff counselors provide substance use treatment in Ojibwa (Q.18b),0,No
+LANG21,Staff counselors provide substance use treatment in Ojibwa (Q.18b),1,Yes
+LANG22,Staff counselors provide substance use treatment in Greek (Q.18b),.,Logical skip
+LANG22,Staff counselors provide substance use treatment in Greek (Q.18b),M,Missing
+LANG22,Staff counselors provide substance use treatment in Greek (Q.18b),0,No
+LANG22,Staff counselors provide substance use treatment in Greek (Q.18b),1,Yes
+LANG23,Staff counselors provide substance use treatment in Japanese (Q.18b),.,Logical skip
+LANG23,Staff counselors provide substance use treatment in Japanese (Q.18b),M,Missing
+LANG23,Staff counselors provide substance use treatment in Japanese (Q.18b),0,No
+LANG23,Staff counselors provide substance use treatment in Japanese (Q.18b),1,Yes
+LANG24,Staff counselors provide substance use treatment in Farsi (Q.18b),.,Logical skip
+LANG24,Staff counselors provide substance use treatment in Farsi (Q.18b),M,Missing
+LANG24,Staff counselors provide substance use treatment in Farsi (Q.18b),0,No
+LANG24,Staff counselors provide substance use treatment in Farsi (Q.18b),1,Yes
+LANG25,Staff counselors provide substance use treatment in Hebrew (Q.18b),.,Logical skip
+LANG25,Staff counselors provide substance use treatment in Hebrew (Q.18b),M,Missing
+LANG25,Staff counselors provide substance use treatment in Hebrew (Q.18b),0,No
+LANG25,Staff counselors provide substance use treatment in Hebrew (Q.18b),1,Yes
+LANG26,Staff counselors provide substance use treatment in Hindi (Q.18b),.,Logical skip
+LANG26,Staff counselors provide substance use treatment in Hindi (Q.18b),M,Missing
+LANG26,Staff counselors provide substance use treatment in Hindi (Q.18b),0,No
+LANG26,Staff counselors provide substance use treatment in Hindi (Q.18b),1,Yes
+SACOUN,Facility frequently uses substance abuse counseling (Q.15),M,Missing
+SACOUN,Facility frequently uses substance abuse counseling (Q.15),0,No
+SACOUN,Facility frequently uses substance abuse counseling (Q.15),1,Yes
+_12STEP,Facility frequently uses 12-step facilitation (Q.15),M,Missing
+_12STEP,Facility frequently uses 12-step facilitation (Q.15),0,No
+_12STEP,Facility frequently uses 12-step facilitation (Q.15),1,Yes
+BRIEF,Facility frequently uses brief intervention (Q.15),M,Missing
+BRIEF,Facility frequently uses brief intervention (Q.15),0,No
+BRIEF,Facility frequently uses brief intervention (Q.15),1,Yes
+COGBT,Facility frequently uses cognitive behavioral therapy (Q.15),M,Missing
+COGBT,Facility frequently uses cognitive behavioral therapy (Q.15),0,No
+COGBT,Facility frequently uses cognitive behavioral therapy (Q.15),1,Yes
+DIALBT,Facility frequently uses dialectical behavior therapy (Q.15),M,Missing
+DIALBT,Facility frequently uses dialectical behavior therapy (Q.15),0,No
+DIALBT,Facility frequently uses dialectical behavior therapy (Q.15),1,Yes
+CONMGMT,Facility frequently uses contingency management (Q.15),M,Missing
+CONMGMT,Facility frequently uses contingency management (Q.15),0,No
+CONMGMT,Facility frequently uses contingency management (Q.15),1,Yes
+MOTIVATE,Facility frequently uses motivational interviewing (Q.15),M,Missing
+MOTIVATE,Facility frequently uses motivational interviewing (Q.15),0,No
+MOTIVATE,Facility frequently uses motivational interviewing (Q.15),1,Yes
+TRAUMAC,Facility frequently uses trauma-related counseling (Q.15),M,Missing
+TRAUMAC,Facility frequently uses trauma-related counseling (Q.15),0,No
+TRAUMAC,Facility frequently uses trauma-related counseling (Q.15),1,Yes
+ANGERM,Facility frequently uses anger management (Q.15),M,Missing
+ANGERM,Facility frequently uses anger management (Q.15),0,No
+ANGERM,Facility frequently uses anger management (Q.15),1,Yes
+MATRIXM,Facility frequently uses Matrix Model (Q.15),M,Missing
+MATRIXM,Facility frequently uses Matrix Model (Q.15),0,No
+MATRIXM,Facility frequently uses Matrix Model (Q.15),1,Yes
+CRVOUCHER,Facility frequently uses community reinforcement plus vouchers (Q.15),M,Missing
+CRVOUCHER,Facility frequently uses community reinforcement plus vouchers (Q.15),0,No
+CRVOUCHER,Facility frequently uses community reinforcement plus vouchers (Q.15),1,Yes
+REBTHER,Facility frequently uses rational emotive behavioral therapy (Q.15),M,Missing
+REBTHER,Facility frequently uses rational emotive behavioral therapy (Q.15),0,No
+REBTHER,Facility frequently uses rational emotive behavioral therapy (Q.15),1,Yes
+RELPREV,Facility frequently uses relapse prevention (Q.15),M,Missing
+RELPREV,Facility frequently uses relapse prevention (Q.15),0,No
+RELPREV,Facility frequently uses relapse prevention (Q.15),1,Yes
+TELEMED,Facility frequently uses telemedicine/telehealth therapy (Q.15),M,Missing
+TELEMED,Facility frequently uses telemedicine/telehealth therapy (Q.15),0,No
+TELEMED,Facility frequently uses telemedicine/telehealth therapy (Q.15),1,Yes
+APPRCHOTH,Facility frequently uses other treatment approaches (Q.15),0,No
+APPRCHOTH,Facility frequently uses other treatment approaches (Q.15),1,Yes
+NOAPPRCH,Facility uses no clinical/therapeutic approaches (Q.15),M,Missing
+NOAPPRCH,Facility uses no clinical/therapeutic approaches (Q.15),0,No
+NOAPPRCH,Facility uses no clinical/therapeutic approaches (Q.15),1,Yes
+DUI_DWI,Facility offers a specially designed program for DUI/DWI or other drunk driver offenders (Q.16),M,Missing
+DUI_DWI,Facility offers a specially designed program for DUI/DWI or other drunk driver offenders (Q.16),0,No
+DUI_DWI,Facility offers a specially designed program for DUI/DWI or other drunk driver offenders (Q.16),1,Yes
+ONLYDUI,Facility serves only DUI/DWI clients (Q.16a),.,Logical skip
+ONLYDUI,Facility serves only DUI/DWI clients (Q.16a),M,Missing
+ONLYDUI,Facility serves only DUI/DWI clients (Q.16a),0,No
+ONLYDUI,Facility serves only DUI/DWI clients (Q.16a),1,Yes
+ONLYOUD,Facility serves only opioid use disorder clients (Q.13b),.,Logical skip
+ONLYOUD,Facility serves only opioid use disorder clients (Q.13b),M,Missing
+ONLYOUD,Facility serves only opioid use disorder clients (Q.13b),0,No
+ONLYOUD,Facility serves only opioid use disorder clients (Q.13b),1,Yes
+OPIOIDDETOX,Facility provides detoxification from opioids of abuse with methadone or buprenorphine for treating opioid use disorder,.,Logical skip
+OPIOIDDETOX,Facility provides detoxification from opioids of abuse with methadone or buprenorphine for treating opioid use disorder,M,Missing
+OPIOIDDETOX,Facility provides detoxification from opioids of abuse with methadone or buprenorphine for treating opioid use disorder,0,No
+OPIOIDDETOX,Facility provides detoxification from opioids of abuse with methadone or buprenorphine for treating opioid use disorder,1,Yes
+OPIOIDDLOFE,Facility provides detoxification from opioids of abuse with lofexidine or clonidine for treating opioid use disorder (Q.13c),.,Logical skip
+OPIOIDDLOFE,Facility provides detoxification from opioids of abuse with lofexidine or clonidine for treating opioid use disorder (Q.13c),M,Missing
+OPIOIDDLOFE,Facility provides detoxification from opioids of abuse with lofexidine or clonidine for treating opioid use disorder (Q.13c),0,No
+OPIOIDDLOFE,Facility provides detoxification from opioids of abuse with lofexidine or clonidine for treating opioid use disorder (Q.13c),1,Yes
+OPIOIDMAINT,Facility provides maintenance with methadone or buprenorphine for treating opioid use disorder (Q.13c),.,Logical skip
+OPIOIDMAINT,Facility provides maintenance with methadone or buprenorphine for treating opioid use disorder (Q.13c),M,Missing
+OPIOIDMAINT,Facility provides maintenance with methadone or buprenorphine for treating opioid use disorder (Q.13c),0,No
+OPIOIDMAINT,Facility provides maintenance with methadone or buprenorphine for treating opioid use disorder (Q.13c),1,Yes
+OPIOIDNAL,Facility provides relapse prevention with naltrexone for treating opioid use disorder (Q.13c),.,Logical skip
+OPIOIDNAL,Facility provides relapse prevention with naltrexone for treating opioid use disorder (Q.13c),M,Missing
+OPIOIDNAL,Facility provides relapse prevention with naltrexone for treating opioid use disorder (Q.13c),0,No
+OPIOIDNAL,Facility provides relapse prevention with naltrexone for treating opioid use disorder (Q.13c),1,Yes
+OPIOIDOTH,Facility provides other medication services for treating opioid use disorder (Q.13c),.,Logical skip
+OPIOIDOTH,Facility provides other medication services for treating opioid use disorder (Q.13c),0,No
+OPIOIDOTH,Facility provides other medication services for treating opioid use disorder (Q.13c),1,Yes
+OPIOIDWDRAW,Facility provides maintenance services with medically supervised withdrawal (or taper) after a period of stabilization for treating opioid use disorder (Q.13c),.,Logical skip
+OPIOIDWDRAW,Facility provides maintenance services with medically supervised withdrawal (or taper) after a period of stabilization for treating opioid use disorder (Q.13c),M,Missing
+OPIOIDWDRAW,Facility provides maintenance services with medically supervised withdrawal (or taper) after a period of stabilization for treating opioid use disorder (Q.13c),0,No
+OPIOIDWDRAW,Facility provides maintenance services with medically supervised withdrawal (or taper) after a period of stabilization for treating opioid use disorder (Q.13c),1,Yes
+FEESCALE,Facility uses a sliding fee scale (Q.20),.,Logical skip
+FEESCALE,Facility uses a sliding fee scale (Q.20),M,Missing
+FEESCALE,Facility uses a sliding fee scale (Q.20),0,No
+FEESCALE,Facility uses a sliding fee scale (Q.20),1,Yes
+PAYASST,Facility offers treatment at no charge or minimal payment to clients who cannot afford to pay (Q.21),.,Logical skip
+PAYASST,Facility offers treatment at no charge or minimal payment to clients who cannot afford to pay (Q.21),M,Missing
+PAYASST,Facility offers treatment at no charge or minimal payment to clients who cannot afford to pay (Q.21),0,No
+PAYASST,Facility offers treatment at no charge or minimal payment to clients who cannot afford to pay (Q.21),1,Yes
+EARMARK,"Facility receives funding or grants from the federal government, or state, county, or local governments, to support its substance use treatment programs (Q.22)",D,Don't know
+EARMARK,"Facility receives funding or grants from the federal government, or state, county, or local governments, to support its substance use treatment programs (Q.22)",M,Missing
+EARMARK,"Facility receives funding or grants from the federal government, or state, county, or local governments, to support its substance use treatment programs (Q.22)",0,No
+EARMARK,"Facility receives funding or grants from the federal government, or state, county, or local governments, to support its substance use treatment programs (Q.22)",1,Yes
+REVCHK1,Accepts cash or self-payment for substance use treatment (Q.23),M,Missing
+REVCHK1,Accepts cash or self-payment for substance use treatment (Q.23),0,No
+REVCHK1,Accepts cash or self-payment for substance use treatment (Q.23),1,Yes
+REVCHK2,Accepts private health insurance as source of payment for substance use treatment (Q.23),M,Missing
+REVCHK2,Accepts private health insurance as source of payment for substance use treatment (Q.23),0,No
+REVCHK2,Accepts private health insurance as source of payment for substance use treatment (Q.23),1,Yes
+REVCHK3,Substance use treatment is free for all clients (Q.23),M,Missing
+REVCHK3,Substance use treatment is free for all clients (Q.23),0,No
+REVCHK3,Substance use treatment is free for all clients (Q.23),1,Yes
+REVCHK5,Accepts Medicaid as source of payment for substance use treatment (Q.23),M,Missing
+REVCHK5,Accepts Medicaid as source of payment for substance use treatment (Q.23),0,No
+REVCHK5,Accepts Medicaid as source of payment for substance use treatment (Q.23),1,Yes
+REVCHK8,Accepts Medicare as source of payment for substance use treatment (Q.23),M,Missing
+REVCHK8,Accepts Medicare as source of payment for substance use treatment (Q.23),0,No
+REVCHK8,Accepts Medicare as source of payment for substance use treatment (Q.23),1,Yes
+REVCHK10,Accepts state-financed health insurance plan other than Medicaid as source of payment for substance use treatment (Q.23),M,Missing
+REVCHK10,Accepts state-financed health insurance plan other than Medicaid as source of payment for substance use treatment (Q.23),0,No
+REVCHK10,Accepts state-financed health insurance plan other than Medicaid as source of payment for substance use treatment (Q.23),1,Yes
+REVCHK15,Accepts federal military insurance (such as TRICARE) as source of payment for substance use treatment (Q.23),M,Missing
+REVCHK15,Accepts federal military insurance (such as TRICARE) as source of payment for substance use treatment (Q.23),0,No
+REVCHK15,Accepts federal military insurance (such as TRICARE) as source of payment for substance use treatment (Q.23),1,Yes
+REVCHK17,Accepts IHS/Tribal/Urban (ITU) funds as source of payment for substance use treatment (Q.23),M,Missing
+REVCHK17,Accepts IHS/Tribal/Urban (ITU) funds as source of payment for substance use treatment (Q.23),0,No
+REVCHK17,Accepts IHS/Tribal/Urban (ITU) funds as source of payment for substance use treatment (Q.23),1,Yes
+ACCRED,"Facility is licensed, certified, or accredited to provide substance abuse services by any of the organizations referenced (Q.27)",V,Logical skip/missing/unknown/incomplete/not applicable
+ACCRED,"Facility is licensed, certified, or accredited to provide substance abuse services by any of the organizations referenced (Q.27)",0,"Not licensed, certified, or accredited by any of these organizations"
+ACCRED,"Facility is licensed, certified, or accredited to provide substance abuse services by any of the organizations referenced (Q.27)",1,"Licensed, certified, or accredited by any of these organizations"
+LICEN,Facility is licensed by hospital licensing authority or state authority (Q.27),V,Logical skip/missing/unknown/incomplete/not applicable
+LICEN,Facility is licensed by hospital licensing authority or state authority (Q.27),0,"Not licensed, certified, or accredited by any of these organizations"
+LICEN,Facility is licensed by hospital licensing authority or state authority (Q.27),1,"Licensed, certified, or accredited by any of these organizations"
+LICENHOS,Facility is licensed by hospital licensing authority (Q.27),M,Missing
+LICENHOS,Facility is licensed by hospital licensing authority (Q.27),0,No
+LICENHOS,Facility is licensed by hospital licensing authority (Q.27),1,Yes
+LICENMH,Facility is licensed by state mental health department (Q.27),M,Missing
+LICENMH,Facility is licensed by state mental health department (Q.27),0,No
+LICENMH,Facility is licensed by state mental health department (Q.27),1,Yes
+LICENPH,Facility is licensed by state department of health (Q.27),M,Missing
+LICENPH,Facility is licensed by state department of health (Q.27),0,No
+LICENPH,Facility is licensed by state department of health (Q.27),1,Yes
+LICENSED,Facility is licensed by state substance abuse agency (Q.27),M,Missing
+LICENSED,Facility is licensed by state substance abuse agency (Q.27),0,No
+LICENSED,Facility is licensed by state substance abuse agency (Q.27),1,Yes
+JCAHO,Facility has Joint Commission accreditation (Q.27),M,Missing
+JCAHO,Facility has Joint Commission accreditation (Q.27),0,No
+JCAHO,Facility has Joint Commission accreditation (Q.27),1,Yes
+CARF,Facility is Commission on Accreditation of Rehabilitation Facilities (CARF)-accredited (Q.27),M,Missing
+CARF,Facility is Commission on Accreditation of Rehabilitation Facilities (CARF)-accredited (Q.27),0,No
+CARF,Facility is Commission on Accreditation of Rehabilitation Facilities (CARF)-accredited (Q.27),1,Yes
+NCQA,Facility is National Committee for Quality Assurance (NCQA)-accredited (Q.27),M,Missing
+NCQA,Facility is National Committee for Quality Assurance (NCQA)-accredited (Q.27),0,No
+NCQA,Facility is National Committee for Quality Assurance (NCQA)-accredited (Q.27),1,Yes
+COA,Facility is Council on Accreditation (COA)-accredited (Q.27),M,Missing
+COA,Facility is Council on Accreditation (COA)-accredited (Q.27),0,No
+COA,Facility is Council on Accreditation (COA)-accredited (Q.27),1,Yes
+HFAP,Facility is accredited by Healthcare Facilities Accreditation Program (HFAP) (Q.27),M,Missing
+HFAP,Facility is accredited by Healthcare Facilities Accreditation Program (HFAP) (Q.27),0,No
+HFAP,Facility is accredited by Healthcare Facilities Accreditation Program (HFAP) (Q.27),1,Yes
+A_PCT,Percent of clients treated for only alcohol abuse (Q.34),.,Logical skip
+A_PCT,Percent of clients treated for only alcohol abuse (Q.34),M,Missing
+A_PCT,Percent of clients treated for only alcohol abuse (Q.34),N,Not applicable
+A_PCT,Percent of clients treated for only alcohol abuse (Q.34),1,0-10
+A_PCT,Percent of clients treated for only alcohol abuse (Q.34),2,11-20
+A_PCT,Percent of clients treated for only alcohol abuse (Q.34),3,21-25
+A_PCT,Percent of clients treated for only alcohol abuse (Q.34),4,26-40
+A_PCT,Percent of clients treated for only alcohol abuse (Q.34),5,41+
+B_PCT,Percent of clients treated for both alcohol/drug abuse (Q.34),.,Logical skip
+B_PCT,Percent of clients treated for both alcohol/drug abuse (Q.34),M,Missing
+B_PCT,Percent of clients treated for both alcohol/drug abuse (Q.34),N,Not applicable
+B_PCT,Percent of clients treated for both alcohol/drug abuse (Q.34),1,0-25
+B_PCT,Percent of clients treated for both alcohol/drug abuse (Q.34),2,26-45
+B_PCT,Percent of clients treated for both alcohol/drug abuse (Q.34),3,46-60
+B_PCT,Percent of clients treated for both alcohol/drug abuse (Q.34),4,61-80
+B_PCT,Percent of clients treated for both alcohol/drug abuse (Q.34),5,81+
+D_PCT,Percent of clients treated for only drug abuse (Q.34),.,Logical skip
+D_PCT,Percent of clients treated for only drug abuse (Q.34),M,Missing
+D_PCT,Percent of clients treated for only drug abuse (Q.34),N,Not applicable
+D_PCT,Percent of clients treated for only drug abuse (Q.34),1,0-10
+D_PCT,Percent of clients treated for only drug abuse (Q.34),2,11-20
+D_PCT,Percent of clients treated for only drug abuse (Q.34),3,21-30
+D_PCT,Percent of clients treated for only drug abuse (Q.34),4,31-60
+D_PCT,Percent of clients treated for only drug abuse (Q.34),5,61+
+HIBUPNUM,"Hospital inpatient clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.31c)",.,Logical skip
+HIBUPNUM,"Hospital inpatient clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.31c)",1,0 - 2
+HIBUPNUM,"Hospital inpatient clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.31c)",2,3
+HIBUPNUM,"Hospital inpatient clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.31c)",3,4 - 5
+HIBUPNUM,"Hospital inpatient clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.31c)",4,6 - 10
+HIBUPNUM,"Hospital inpatient clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.31c)",5,11 <+
+HIMATNUM,"Hospital inpatient clients -- total medication assisted treatment -- March 29, 2019 (Q.31c)",.,Logical skip
+HIMATNUM,"Hospital inpatient clients -- total medication assisted treatment -- March 29, 2019 (Q.31c)",1,0 - 3
+HIMATNUM,"Hospital inpatient clients -- total medication assisted treatment -- March 29, 2019 (Q.31c)",2,4 - 6
+HIMATNUM,"Hospital inpatient clients -- total medication assisted treatment -- March 29, 2019 (Q.31c)",3,7 - 10
+HIMATNUM,"Hospital inpatient clients -- total medication assisted treatment -- March 29, 2019 (Q.31c)",4,11 - 20
+HIMATNUM,"Hospital inpatient clients -- total medication assisted treatment -- March 29, 2019 (Q.31c)",5,21+
+HIMETNUM,"Hospital inpatient clients, methadone dispensed for opioid use disorder (Q.31c)",.,Logical skip
+HIMETNUM,"Hospital inpatient clients, methadone dispensed for opioid use disorder (Q.31c)",1,0 - 2
+HIMETNUM,"Hospital inpatient clients, methadone dispensed for opioid use disorder (Q.31c)",2,3 - 5
+HIMETNUM,"Hospital inpatient clients, methadone dispensed for opioid use disorder (Q.31c)",3,6 - 9
+HIMETNUM,"Hospital inpatient clients, methadone dispensed for opioid use disorder (Q.31c)",4,10 - 18
+HIMETNUM,"Hospital inpatient clients, methadone dispensed for opioid use disorder (Q.31c)",5,19+
+HIVIVNUM,"Hospital inpatient clients, naltrexone administered for opioid use disorder (Q.31c)",.,Logical skip
+HIVIVNUM,"Hospital inpatient clients, naltrexone administered for opioid use disorder (Q.31c)",1,0 - 1
+HIVIVNUM,"Hospital inpatient clients, naltrexone administered for opioid use disorder (Q.31c)",2,2
+HIVIVNUM,"Hospital inpatient clients, naltrexone administered for opioid use disorder (Q.31c)",3,3
+HIVIVNUM,"Hospital inpatient clients, naltrexone administered for opioid use disorder (Q.31c)",4,4 - 6
+HIVIVNUM,"Hospital inpatient clients, naltrexone administered for opioid use disorder (Q.31c)",5,7+
+OPBUPNUM,"Outpatient clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.33c)",.,Logical skip
+OPBUPNUM,"Outpatient clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.33c)",M,Missing
+OPBUPNUM,"Outpatient clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.33c)",1,0 - 4
+OPBUPNUM,"Outpatient clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.33c)",2,5 - 10
+OPBUPNUM,"Outpatient clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.33c)",3,11 -22
+OPBUPNUM,"Outpatient clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.33c)",4,23 - 54
+OPBUPNUM,"Outpatient clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.33c)",5,55+
+OPMATNUM,"Outpatient clients -- total medication assisted treatment -- March 29, 2019 (Q.33c)",.,Logical skip
+OPMATNUM,"Outpatient clients -- total medication assisted treatment -- March 29, 2019 (Q.33c)",1,0 - 119
+OPMATNUM,"Outpatient clients -- total medication assisted treatment -- March 29, 2019 (Q.33c)",2,120 - 203
+OPMATNUM,"Outpatient clients -- total medication assisted treatment -- March 29, 2019 (Q.33c)",3,204 - 308
+OPMATNUM,"Outpatient clients -- total medication assisted treatment -- March 29, 2019 (Q.33c)",4,309 - 472
+OPMATNUM,"Outpatient clients -- total medication assisted treatment -- March 29, 2019 (Q.33c)",5,473+
+OPMETNUM,"Outpatient clients, methadone dispensed for opioid use disorder (Q.33c)",.,Logical skip
+OPMETNUM,"Outpatient clients, methadone dispensed for opioid use disorder (Q.33c)",1,0-119
+OPMETNUM,"Outpatient clients, methadone dispensed for opioid use disorder (Q.33c)",2,120-200
+OPMETNUM,"Outpatient clients, methadone dispensed for opioid use disorder (Q.33c)",3,201-300
+OPMETNUM,"Outpatient clients, methadone dispensed for opioid use disorder (Q.33c)",4,301-465
+OPMETNUM,"Outpatient clients, methadone dispensed for opioid use disorder (Q.33c)",5,466+
+OPVIVNUM,"Outpatient clients, naltrexone administered for opioid use disorder (Q.33c)",.,Logical skip
+OPVIVNUM,"Outpatient clients, naltrexone administered for opioid use disorder (Q.33c)",M,Missing
+OPVIVNUM,"Outpatient clients, naltrexone administered for opioid use disorder (Q.33c)",1,0-2 
+OPVIVNUM,"Outpatient clients, naltrexone administered for opioid use disorder (Q.33c)",2,3
+OPVIVNUM,"Outpatient clients, naltrexone administered for opioid use disorder (Q.33c)",3,4-6
+OPVIVNUM,"Outpatient clients, naltrexone administered for opioid use disorder (Q.33c)",4,7-15
+OPVIVNUM,"Outpatient clients, naltrexone administered for opioid use disorder (Q.33c)",5,16+
+RCBUPNUM,"Residential clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.32c)",.,Logical skip
+RCBUPNUM,"Residential clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.32c)",M,Missing
+RCBUPNUM,"Residential clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.32c)",1,0 - 2
+RCBUPNUM,"Residential clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.32c)",2,3
+RCBUPNUM,"Residential clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.32c)",3,4 - 5
+RCBUPNUM,"Residential clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.32c)",4,6 - 10
+RCBUPNUM,"Residential clients, buprenorphine dispensed or prescribed for opioid use disorder (Q.32c)",5,11+
+RCMATNUM,"Residential clients -- total medication assisted treatment -- March 29, 2019 (Q.32c)",.,Logical skip
+RCMATNUM,"Residential clients -- total medication assisted treatment -- March 29, 2019 (Q.32c)",1,0 - 3
+RCMATNUM,"Residential clients -- total medication assisted treatment -- March 29, 2019 (Q.32c)",2,4 - 7
+RCMATNUM,"Residential clients -- total medication assisted treatment -- March 29, 2019 (Q.32c)",3,8 - 15
+RCMATNUM,"Residential clients -- total medication assisted treatment -- March 29, 2019 (Q.32c)",4,16 - 30
+RCMATNUM,"Residential clients -- total medication assisted treatment -- March 29, 2019 (Q.32c)",5,31+
+RCMETNUM,"Residential clients, methadone dispensed for opioid use disorder (Q.32c)",.,Logical skip
+RCMETNUM,"Residential clients, methadone dispensed for opioid use disorder (Q.32c)",1,0-3
+RCMETNUM,"Residential clients, methadone dispensed for opioid use disorder (Q.32c)",2,4-6
+RCMETNUM,"Residential clients, methadone dispensed for opioid use disorder (Q.32c)",3,7-12
+RCMETNUM,"Residential clients, methadone dispensed for opioid use disorder (Q.32c)",4,13-25
+RCMETNUM,"Residential clients, methadone dispensed for opioid use disorder (Q.32c)",5,26+
+RCVIVNUM,"Residential clients, naltrexone administered for opioid use disorder (Q.32c)",.,Logical skip
+RCVIVNUM,"Residential clients, naltrexone administered for opioid use disorder (Q.32c)",M,Missing
+RCVIVNUM,"Residential clients, naltrexone administered for opioid use disorder (Q.32c)",2,2
+RCVIVNUM,"Residential clients, naltrexone administered for opioid use disorder (Q.32c)",3,3
+RCVIVNUM,"Residential clients, naltrexone administered for opioid use disorder (Q.32c)",5,7+
+HIDISNUM,"Hospital inpatient clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.31d)",.,Logical skip
+HIDISNUM,"Hospital inpatient clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.31d)",1,0 - 1
+HIDISNUM,"Hospital inpatient clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.31d)",2,2
+HIDISNUM,"Hospital inpatient clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.31d)",3,3 - 4
+HIDISNUM,"Hospital inpatient clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.31d)",4,5 - 9
+HIDISNUM,"Hospital inpatient clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.31d)",5,10+
+HINALNUM,"Hospital inpatient clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.31d)",.,Logical skip
+HINALNUM,"Hospital inpatient clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.31d)",1,0-1
+HINALNUM,"Hospital inpatient clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.31d)",2,2
+HINALNUM,"Hospital inpatient clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.31d)",3,3
+HINALNUM,"Hospital inpatient clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.31d)",4,4-8
+HINALNUM,"Hospital inpatient clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.31d)",5,9+
+HIACAMNUM,"Hospital inpatient clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.31d)",.,Logical skip
+HIACAMNUM,"Hospital inpatient clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.31d)",1,0-1
+HIACAMNUM,"Hospital inpatient clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.31d)",2,2
+HIACAMNUM,"Hospital inpatient clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.31d)",3,3
+HIACAMNUM,"Hospital inpatient clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.31d)",4,4-5
+HIACAMNUM,"Hospital inpatient clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.31d)",5,6+
+RCDISNUM,"Residential clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.32d)",.,Logical skip
+RCDISNUM,"Residential clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.32d)",M,Missing
+RCDISNUM,"Residential clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.32d)",1,0-1
+RCDISNUM,"Residential clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.32d)",2,2
+RCDISNUM,"Residential clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.32d)",3,3
+RCDISNUM,"Residential clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.32d)",4,4
+RCDISNUM,"Residential clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.32d)",5,5+
+RCNALNUM,"Residential clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.32d)",.,Logical skip
+RCNALNUM,"Residential clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.32d)",M,Missing
+RCNALNUM,"Residential clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.32d)",1,0-1
+RCNALNUM,"Residential clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.32d)",2,2
+RCNALNUM,"Residential clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.32d)",3,3
+RCNALNUM,"Residential clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.32d)",4,4-6
+RCNALNUM,"Residential clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.32d)",5,7+
+RCACAMNUM,"Residential clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.32d)",.,Logical skip 
+RCACAMNUM,"Residential clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.32d)",M,Missing
+RCACAMNUM,"Residential clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.32d)",1,0-1
+RCACAMNUM,"Residential clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.32d)",2,2
+RCACAMNUM,"Residential clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.32d)",3,3
+RCACAMNUM,"Residential clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.32d)",4,4-5
+RCACAMNUM,"Residential clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.32d)",5,6+
+OPDISNUM,"Outpatient clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.33d)",.,Logical skip
+OPDISNUM,"Outpatient clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.33d)",M,Missing
+OPDISNUM,"Outpatient clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.33d)",1,0-1
+OPDISNUM,"Outpatient clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.33d)",2,2
+OPDISNUM,"Outpatient clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.33d)",3,3-4
+OPDISNUM,"Outpatient clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.33d)",4,5-9
+OPDISNUM,"Outpatient clients, disulfiram dispensed or prescribed for alcohol use disorder (Q.33d)",5,10+
+OPNALNUM,"Outpatient clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.33d)",.,Logical skip
+OPNALNUM,"Outpatient clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.33d)",M,Missing
+OPNALNUM,"Outpatient clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.33d)",1,0-1
+OPNALNUM,"Outpatient clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.33d)",2,2-4
+OPNALNUM,"Outpatient clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.33d)",3,5-8
+OPNALNUM,"Outpatient clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.33d)",4,9-16
+OPNALNUM,"Outpatient clients, naltrexone dispensed or prescribed for alcohol use disorder (Q.33d)",5,17+
+OPACAMNUM,"Outpatient clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.33d)",.,Logical skip 
+OPACAMNUM,"Outpatient clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.33d)",M,Missing
+OPACAMNUM,"Outpatient clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.33d)",1,0-1
+OPACAMNUM,"Outpatient clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.33d)",2,2
+OPACAMNUM,"Outpatient clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.33d)",3,3-4
+OPACAMNUM,"Outpatient clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.33d)",4,5-9
+OPACAMNUM,"Outpatient clients, acamprosate dispensed or prescribed for alcohol use disorder (Q.33d)",5,10+
+HOSPBED,Hospital inpatient clients -- total beds designated for substance ue treatment (Q.31e),.,Logical skip 
+HOSPBED,Hospital inpatient clients -- total beds designated for substance ue treatment (Q.31e),M,Missing
+HOSPBED,Hospital inpatient clients -- total beds designated for substance ue treatment (Q.31e),1,0-10
+HOSPBED,Hospital inpatient clients -- total beds designated for substance ue treatment (Q.31e),2,11-16
+HOSPBED,Hospital inpatient clients -- total beds designated for substance ue treatment (Q.31e),3,17-22
+HOSPBED,Hospital inpatient clients -- total beds designated for substance ue treatment (Q.31e),4,23-36
+HOSPBED,Hospital inpatient clients -- total beds designated for substance ue treatment (Q.31e),5,37+
+RESBED,Residential clients -- total beds designated for substance use treatment (Q.32e),.,Logical skip 
+RESBED,Residential clients -- total beds designated for substance use treatment (Q.32e),M,Missing
+RESBED,Residential clients -- total beds designated for substance use treatment (Q.32e),1,0-12
+RESBED,Residential clients -- total beds designated for substance use treatment (Q.32e),2,13-18
+RESBED,Residential clients -- total beds designated for substance use treatment (Q.32e),3,19-28
+RESBED,Residential clients -- total beds designated for substance use treatment (Q.32e),4,29-47
+RESBED,Residential clients -- total beds designated for substance use treatment (Q.32e),5,48+
+H_AGE1,Hospital inpatient clients under 18 years old (Q.31b),.,Logical skip
+H_AGE1,Hospital inpatient clients under 18 years old (Q.31b),1,0-2
+H_AGE1,Hospital inpatient clients under 18 years old (Q.31b),2,3-5
+H_AGE1,Hospital inpatient clients under 18 years old (Q.31b),3,6-10
+H_AGE1,Hospital inpatient clients under 18 years old (Q.31b),4,11-18
+H_AGE1,Hospital inpatient clients under 18 years old (Q.31b),5,19+
+O_AGE1,Outpatient clients under 18 years old (Q.33b),.,Logical skip
+O_AGE1,Outpatient clients under 18 years old (Q.33b),1,0-2
+O_AGE1,Outpatient clients under 18 years old (Q.33b),2,3-5
+O_AGE1,Outpatient clients under 18 years old (Q.33b),3,6-10
+O_AGE1,Outpatient clients under 18 years old (Q.33b),4,11-23
+O_AGE1,Outpatient clients under 18 years old (Q.33b),5,24+
+R_AGE1,Residential clients under 18 years old (Q.32b),.,Logical skip
+R_AGE1,Residential clients under 18 years old (Q.32b),1,0-5
+R_AGE1,Residential clients under 18 years old (Q.32b),2,6-10
+R_AGE1,Residential clients under 18 years old (Q.32b),3,11-15
+R_AGE1,Residential clients under 18 years old (Q.32b),4,16-24
+R_AGE1,Residential clients under 18 years old (Q.32b),5,25+
+T_CLI1_D,"Hospital inpatient clients, detoxification -- for DUI/DWI facilities (Q.31a)",.,Logical skip
+T_CLI1_D,"Hospital inpatient clients, detoxification -- for DUI/DWI facilities (Q.31a)",1,0-2
+T_CLI1_D,"Hospital inpatient clients, detoxification -- for DUI/DWI facilities (Q.31a)",2,3-4
+T_CLI1_D,"Hospital inpatient clients, detoxification -- for DUI/DWI facilities (Q.31a)",3,5-7
+T_CLI1_D,"Hospital inpatient clients, detoxification -- for DUI/DWI facilities (Q.31a)",4,8-13
+T_CLI1_D,"Hospital inpatient clients, detoxification -- for DUI/DWI facilities (Q.31a)",5,14+
+T_CLI1_O,"Hospital inpatient clients, detoxification -- for OTP facilities (Q.31a)",.,Logical skip
+T_CLI1_O,"Hospital inpatient clients, detoxification -- for OTP facilities (Q.31a)",1,0-5
+T_CLI1_O,"Hospital inpatient clients, detoxification -- for OTP facilities (Q.31a)",2,6-10
+T_CLI1_O,"Hospital inpatient clients, detoxification -- for OTP facilities (Q.31a)",3,11-16
+T_CLI1_O,"Hospital inpatient clients, detoxification -- for OTP facilities (Q.31a)",4,17-25
+T_CLI1_O,"Hospital inpatient clients, detoxification -- for OTP facilities (Q.31a)",5,26+
+T_CLI1_X,"Hospital inpatient clients, detoxification -- for non-OTP and non-DUI_DWI facilities (Q.31a)",.,Logical skip
+T_CLI1_X,"Hospital inpatient clients, detoxification -- for non-OTP and non-DUI_DWI facilities (Q.31a)",1,0-2
+T_CLI1_X,"Hospital inpatient clients, detoxification -- for non-OTP and non-DUI_DWI facilities (Q.31a)",2,3-5
+T_CLI1_X,"Hospital inpatient clients, detoxification -- for non-OTP and non-DUI_DWI facilities (Q.31a)",3,6-8
+T_CLI1_X,"Hospital inpatient clients, detoxification -- for non-OTP and non-DUI_DWI facilities (Q.31a)",4,9-13
+T_CLI1_X,"Hospital inpatient clients, detoxification -- for non-OTP and non-DUI_DWI facilities (Q.31a)",5,14+
+T_CLI2_D,"Hospital inpatient clients, treatment -- for DUI_DWI facilities (Q.31a)",.,Logical skip
+T_CLI2_D,"Hospital inpatient clients, treatment -- for DUI_DWI facilities (Q.31a)",1,0-4
+T_CLI2_D,"Hospital inpatient clients, treatment -- for DUI_DWI facilities (Q.31a)",2,5-8
+T_CLI2_D,"Hospital inpatient clients, treatment -- for DUI_DWI facilities (Q.31a)",3,9-14
+T_CLI2_D,"Hospital inpatient clients, treatment -- for DUI_DWI facilities (Q.31a)",4,15-26
+T_CLI2_D,"Hospital inpatient clients, treatment -- for DUI_DWI facilities (Q.31a)",5,27+
+T_CLI2_O,"Hospital inpatient clients, treatment -- for OTP facilities (Q.31a)",.,Logical skip
+T_CLI2_O,"Hospital inpatient clients, treatment -- for OTP facilities (Q.31a)",1,0-5
+T_CLI2_O,"Hospital inpatient clients, treatment -- for OTP facilities (Q.31a)",2,6-13
+T_CLI2_O,"Hospital inpatient clients, treatment -- for OTP facilities (Q.31a)",3,14-20
+T_CLI2_O,"Hospital inpatient clients, treatment -- for OTP facilities (Q.31a)",4,21-42
+T_CLI2_O,"Hospital inpatient clients, treatment -- for OTP facilities (Q.31a)",5,43+
+T_CLI2_X,"Hospital inpatient clients, treatment -- for non-OTP and non-DUI_DWI facilities (Q.31a)",.,Logical skip
+T_CLI2_X,"Hospital inpatient clients, treatment -- for non-OTP and non-DUI_DWI facilities (Q.31a)",1,0-4
+T_CLI2_X,"Hospital inpatient clients, treatment -- for non-OTP and non-DUI_DWI facilities (Q.31a)",2,5-8
+T_CLI2_X,"Hospital inpatient clients, treatment -- for non-OTP and non-DUI_DWI facilities (Q.31a)",3,9-15
+T_CLI2_X,"Hospital inpatient clients, treatment -- for non-OTP and non-DUI_DWI facilities (Q.31a)",4,16-30
+T_CLI2_X,"Hospital inpatient clients, treatment -- for non-OTP and non-DUI_DWI facilities (Q.31a)",5,31+
+T_CLI3_D,"Residential clients, detoxification -- for DUI_DWI facilities (Q.32a)",.,Logical skip
+T_CLI3_D,"Residential clients, detoxification -- for DUI_DWI facilities (Q.32a)",1,0-2
+T_CLI3_D,"Residential clients, detoxification -- for DUI_DWI facilities (Q.32a)",2,3
+T_CLI3_D,"Residential clients, detoxification -- for DUI_DWI facilities (Q.32a)",3,4-6
+T_CLI3_D,"Residential clients, detoxification -- for DUI_DWI facilities (Q.32a)",4,7-12
+T_CLI3_D,"Residential clients, detoxification -- for DUI_DWI facilities (Q.32a)",5,13+
+T_CLI3_O,"Residential clients, detoxification -- for OTP facilities (Q.32a)",.,Logical skip
+T_CLI3_O,"Residential clients, detoxification -- for OTP facilities (Q.32a)",1,0-6
+T_CLI3_O,"Residential clients, detoxification -- for OTP facilities (Q.32a)",2,7-11
+T_CLI3_O,"Residential clients, detoxification -- for OTP facilities (Q.32a)",3,12-20
+T_CLI3_O,"Residential clients, detoxification -- for OTP facilities (Q.32a)",4,21-31
+T_CLI3_O,"Residential clients, detoxification -- for OTP facilities (Q.32a)",5,32+
+T_CLI3_X,"Residential clients, detoxification -- for non-OTP and non-DUI_DWI faciltiies (Q.32a)",.,Logical skip
+T_CLI3_X,"Residential clients, detoxification -- for non-OTP and non-DUI_DWI faciltiies (Q.32a)",1,0-2
+T_CLI3_X,"Residential clients, detoxification -- for non-OTP and non-DUI_DWI faciltiies (Q.32a)",2,3-5
+T_CLI3_X,"Residential clients, detoxification -- for non-OTP and non-DUI_DWI faciltiies (Q.32a)",3,6-8
+T_CLI3_X,"Residential clients, detoxification -- for non-OTP and non-DUI_DWI faciltiies (Q.32a)",4,9-15
+T_CLI3_X,"Residential clients, detoxification -- for non-OTP and non-DUI_DWI faciltiies (Q.32a)",5,16+
+T_CLI5_D,"Outpatient clients, regular outpatient care -- for DUI_DWI facilities (Q.33a)",.,Logical skip
+T_CLI5_D,"Outpatient clients, regular outpatient care -- for DUI_DWI facilities (Q.33a)",1,0-14
+T_CLI5_D,"Outpatient clients, regular outpatient care -- for DUI_DWI facilities (Q.33a)",2,15-30
+T_CLI5_D,"Outpatient clients, regular outpatient care -- for DUI_DWI facilities (Q.33a)",3,31-54
+T_CLI5_D,"Outpatient clients, regular outpatient care -- for DUI_DWI facilities (Q.33a)",4,55-105
+T_CLI5_D,"Outpatient clients, regular outpatient care -- for DUI_DWI facilities (Q.33a)",5,106+
+T_CLI5_O,"Outpatient clients, regular outpatient care -- for OTP facilities (Q.33a)",.,Logical skip
+T_CLI5_O,"Outpatient clients, regular outpatient care -- for OTP facilities (Q.33a)",1,0-9
+T_CLI5_O,"Outpatient clients, regular outpatient care -- for OTP facilities (Q.33a)",2,10-30
+T_CLI5_O,"Outpatient clients, regular outpatient care -- for OTP facilities (Q.33a)",3,31-78
+T_CLI5_O,"Outpatient clients, regular outpatient care -- for OTP facilities (Q.33a)",4,79-200
+T_CLI5_O,"Outpatient clients, regular outpatient care -- for OTP facilities (Q.33a)",5,201+
+T_CLI5_X,"Outpatient clients, regular outpatient care -- for non-OTP and non-DUI_DWI faciltiies (Q.33a)",.,Logical skip
+T_CLI5_X,"Outpatient clients, regular outpatient care -- for non-OTP and non-DUI_DWI faciltiies (Q.33a)",1,0-10
+T_CLI5_X,"Outpatient clients, regular outpatient care -- for non-OTP and non-DUI_DWI faciltiies (Q.33a)",2,11-20
+T_CLI5_X,"Outpatient clients, regular outpatient care -- for non-OTP and non-DUI_DWI faciltiies (Q.33a)",3,21-40
+T_CLI5_X,"Outpatient clients, regular outpatient care -- for non-OTP and non-DUI_DWI faciltiies (Q.33a)",4,41-87
+T_CLI5_X,"Outpatient clients, regular outpatient care -- for non-OTP and non-DUI_DWI faciltiies (Q.33a)",5,88+
+T_CLI6_D,"Outpatient clients, intensive -- for DUI_DWI facilities (Q.33a)",.,Logical skip
+T_CLI6_D,"Outpatient clients, intensive -- for DUI_DWI facilities (Q.33a)",1,0-6
+T_CLI6_D,"Outpatient clients, intensive -- for DUI_DWI facilities (Q.33a)",2,7-12
+T_CLI6_D,"Outpatient clients, intensive -- for DUI_DWI facilities (Q.33a)",3,13-20
+T_CLI6_D,"Outpatient clients, intensive -- for DUI_DWI facilities (Q.33a)",4,21-40
+T_CLI6_D,"Outpatient clients, intensive -- for DUI_DWI facilities (Q.33a)",5,41+
+T_CLI6_O,"Outpatient clients, intensive -- for OTP facilities (Q.33a)",.,Logical skip
+T_CLI6_O,"Outpatient clients, intensive -- for OTP facilities (Q.33a)",1,0-9
+T_CLI6_O,"Outpatient clients, intensive -- for OTP facilities (Q.33a)",2,10-15
+T_CLI6_O,"Outpatient clients, intensive -- for OTP facilities (Q.33a)",3,16-29
+T_CLI6_O,"Outpatient clients, intensive -- for OTP facilities (Q.33a)",4,30-53
+T_CLI6_O,"Outpatient clients, intensive -- for OTP facilities (Q.33a)",5,54+
+T_CLI6_X,"Outpatient clients, intensive -- for non-OTP and non-DUI_DWI facilities (Q.33a)",.,Logical skip
+T_CLI6_X,"Outpatient clients, intensive -- for non-OTP and non-DUI_DWI facilities (Q.33a)",1,0-6
+T_CLI6_X,"Outpatient clients, intensive -- for non-OTP and non-DUI_DWI facilities (Q.33a)",2,7-12
+T_CLI6_X,"Outpatient clients, intensive -- for non-OTP and non-DUI_DWI facilities (Q.33a)",3,13-20
+T_CLI6_X,"Outpatient clients, intensive -- for non-OTP and non-DUI_DWI facilities (Q.33a)",4,21-37
+T_CLI6_X,"Outpatient clients, intensive -- for non-OTP and non-DUI_DWI facilities (Q.33a)",5,38+
+T_CLI7_D,"Outpatient clients, detoxification -- for DUI_DWI facilities (Q.33a)",.,Logical skip
+T_CLI7_D,"Outpatient clients, detoxification -- for DUI_DWI facilities (Q.33a)",1,0-2
+T_CLI7_D,"Outpatient clients, detoxification -- for DUI_DWI facilities (Q.33a)",2,3-5
+T_CLI7_D,"Outpatient clients, detoxification -- for DUI_DWI facilities (Q.33a)",3,6-10
+T_CLI7_D,"Outpatient clients, detoxification -- for DUI_DWI facilities (Q.33a)",4,11-20
+T_CLI7_D,"Outpatient clients, detoxification -- for DUI_DWI facilities (Q.33a)",5,21+
+T_CLI7_O,"Outpatient clients, detoxification -- for OTP facilities (Q.33a)",.,Logical skip
+T_CLI7_O,"Outpatient clients, detoxification -- for OTP facilities (Q.33a)",1,0-3
+T_CLI7_O,"Outpatient clients, detoxification -- for OTP facilities (Q.33a)",2,4-5
+T_CLI7_O,"Outpatient clients, detoxification -- for OTP facilities (Q.33a)",3,6-10
+T_CLI7_O,"Outpatient clients, detoxification -- for OTP facilities (Q.33a)",4,11-15
+T_CLI7_O,"Outpatient clients, detoxification -- for OTP facilities (Q.33a)",5,26+
+T_CLI7_X,"Outpatient clients, detoxification -- for non-OTP and non-DUI_DWI facilities (Q.33a)",.,Logical skip
+T_CLI7_X,"Outpatient clients, detoxification -- for non-OTP and non-DUI_DWI facilities (Q.33a)",1,0-2
+T_CLI7_X,"Outpatient clients, detoxification -- for non-OTP and non-DUI_DWI facilities (Q.33a)",2,3-5
+T_CLI7_X,"Outpatient clients, detoxification -- for non-OTP and non-DUI_DWI facilities (Q.33a)",3,6-10
+T_CLI7_X,"Outpatient clients, detoxification -- for non-OTP and non-DUI_DWI facilities (Q.33a)",4,11-25
+T_CLI7_X,"Outpatient clients, detoxification -- for non-OTP and non-DUI_DWI facilities (Q.33a)",5,26+
+T_CLI8_D,"Outpatient clients, day treatment/partial hospitalization -- for DUI_DWI facilities (Q.33a)",.,Logical skip
+T_CLI8_D,"Outpatient clients, day treatment/partial hospitalization -- for DUI_DWI facilities (Q.33a)",1,0-4
+T_CLI8_D,"Outpatient clients, day treatment/partial hospitalization -- for DUI_DWI facilities (Q.33a)",2,5-8
+T_CLI8_D,"Outpatient clients, day treatment/partial hospitalization -- for DUI_DWI facilities (Q.33a)",3,9-15
+T_CLI8_D,"Outpatient clients, day treatment/partial hospitalization -- for DUI_DWI facilities (Q.33a)",4,16-30
+T_CLI8_D,"Outpatient clients, day treatment/partial hospitalization -- for DUI_DWI facilities (Q.33a)",5,31+
+T_CLI8_O,"Outpatient clients, day treatment/partial hospitalization -- for OTP facilities (Q.33a)",.,Logical skip
+T_CLI8_O,"Outpatient clients, day treatment/partial hospitalization -- for OTP facilities (Q.33a)",1,0-6
+T_CLI8_O,"Outpatient clients, day treatment/partial hospitalization -- for OTP facilities (Q.33a)",2,7-11
+T_CLI8_O,"Outpatient clients, day treatment/partial hospitalization -- for OTP facilities (Q.33a)",3,12-20
+T_CLI8_O,"Outpatient clients, day treatment/partial hospitalization -- for OTP facilities (Q.33a)",4,21-31
+T_CLI8_O,"Outpatient clients, day treatment/partial hospitalization -- for OTP facilities (Q.33a)",5,32+
+T_CLI8_X,"Outpatient clients, day treatment/partial hospitalization -- for non-OTP and non-DUI_DWI facilities (Q.33a)",.,Logical skip
+T_CLI8_X,"Outpatient clients, day treatment/partial hospitalization -- for non-OTP and non-DUI_DWI facilities (Q.33a)",1,0-4
+T_CLI8_X,"Outpatient clients, day treatment/partial hospitalization -- for non-OTP and non-DUI_DWI facilities (Q.33a)",2,5-8
+T_CLI8_X,"Outpatient clients, day treatment/partial hospitalization -- for non-OTP and non-DUI_DWI facilities (Q.33a)",3,9-15
+T_CLI8_X,"Outpatient clients, day treatment/partial hospitalization -- for non-OTP and non-DUI_DWI facilities (Q.33a)",4,16-28
+T_CLI8_X,"Outpatient clients, day treatment/partial hospitalization -- for non-OTP and non-DUI_DWI facilities (Q.33a)",5,29+
+T_CLI9_D,"Residential clients, short-term detoxification -- for DUI_DWI facilities (Q.32a)",.,Logical skip
+T_CLI9_D,"Residential clients, short-term detoxification -- for DUI_DWI facilities (Q.32a)",1,0-6
+T_CLI9_D,"Residential clients, short-term detoxification -- for DUI_DWI facilities (Q.32a)",2,7-11
+T_CLI9_D,"Residential clients, short-term detoxification -- for DUI_DWI facilities (Q.32a)",3,12-18
+T_CLI9_D,"Residential clients, short-term detoxification -- for DUI_DWI facilities (Q.32a)",4,19-30
+T_CLI9_D,"Residential clients, short-term detoxification -- for DUI_DWI facilities (Q.32a)",5,31+
+T_CLI9_O,"Residential clients, short-term detoxification -- for OTP facilities (Q.32a)",.,Logical skip
+T_CLI9_O,"Residential clients, short-term detoxification -- for OTP facilities (Q.32a)",1,0-11
+T_CLI9_O,"Residential clients, short-term detoxification -- for OTP facilities (Q.32a)",2,12-18
+T_CLI9_O,"Residential clients, short-term detoxification -- for OTP facilities (Q.32a)",3,19-29
+T_CLI9_O,"Residential clients, short-term detoxification -- for OTP facilities (Q.32a)",4,30-49
+T_CLI9_O,"Residential clients, short-term detoxification -- for OTP facilities (Q.32a)",5,50+
+T_CLI9_X,"Residential clients, short-term detoxification -- for non-OTP and non-DUI_DWI facilities (Q.32a)",.,Logical skip
+T_CLI9_X,"Residential clients, short-term detoxification -- for non-OTP and non-DUI_DWI facilities (Q.32a)",1,0-5
+T_CLI9_X,"Residential clients, short-term detoxification -- for non-OTP and non-DUI_DWI facilities (Q.32a)",2,6-10
+T_CLI9_X,"Residential clients, short-term detoxification -- for non-OTP and non-DUI_DWI facilities (Q.32a)",3,11-16
+T_CLI9_X,"Residential clients, short-term detoxification -- for non-OTP and non-DUI_DWI facilities (Q.32a)",4,17-28
+T_CLI9_X,"Residential clients, short-term detoxification -- for non-OTP and non-DUI_DWI facilities (Q.32a)",5,29+
+T_CLI10_D,"Residential clients, long-term detoxification -- for DUI/DWI facilities (Q.32a)",.,Logical skip
+T_CLI10_D,"Residential clients, long-term detoxification -- for DUI/DWI facilities (Q.32a)",1,0-6
+T_CLI10_D,"Residential clients, long-term detoxification -- for DUI/DWI facilities (Q.32a)",2,7-12
+T_CLI10_D,"Residential clients, long-term detoxification -- for DUI/DWI facilities (Q.32a)",3,13-20
+T_CLI10_D,"Residential clients, long-term detoxification -- for DUI/DWI facilities (Q.32a)",4,21-40
+T_CLI10_D,"Residential clients, long-term detoxification -- for DUI/DWI facilities (Q.32a)",5,41+
+T_CLI10_O,"Residential clients, long-term detoxification -- for OTP facilities (Q.32a)",.,Logical skip
+T_CLI10_O,"Residential clients, long-term detoxification -- for OTP facilities (Q.32a)",1,0-7
+T_CLI10_O,"Residential clients, long-term detoxification -- for OTP facilities (Q.32a)",2,8-16
+T_CLI10_O,"Residential clients, long-term detoxification -- for OTP facilities (Q.32a)",3,17-40
+T_CLI10_O,"Residential clients, long-term detoxification -- for OTP facilities (Q.32a)",4,41-70
+T_CLI10_O,"Residential clients, long-term detoxification -- for OTP facilities (Q.32a)",5,71+
+T_CLI10_X,"Residential clients, long-term detoxification -- for non-OTP and non-DUI/DWI facilities (Q.32a)",.,Logical skip
+T_CLI10_X,"Residential clients, long-term detoxification -- for non-OTP and non-DUI/DWI facilities (Q.32a)",1,0-8
+T_CLI10_X,"Residential clients, long-term detoxification -- for non-OTP and non-DUI/DWI facilities (Q.32a)",2,9-14
+T_CLI10_X,"Residential clients, long-term detoxification -- for non-OTP and non-DUI/DWI facilities (Q.32a)",3,15-20
+T_CLI10_X,"Residential clients, long-term detoxification -- for non-OTP and non-DUI/DWI facilities (Q.32a)",4,21-34
+T_CLI10_X,"Residential clients, long-term detoxification -- for non-OTP and non-DUI/DWI facilities (Q.32a)",5,35+
+T_CLIHI_D,Total number of hospital inpatients -- for DUI_DWI facilities (Q.31a),.,Logical skip
+T_CLIHI_D,Total number of hospital inpatients -- for DUI_DWI facilities (Q.31a),1,0-4
+T_CLIHI_D,Total number of hospital inpatients -- for DUI_DWI facilities (Q.31a),2,5-8
+T_CLIHI_D,Total number of hospital inpatients -- for DUI_DWI facilities (Q.31a),3,9-16
+T_CLIHI_D,Total number of hospital inpatients -- for DUI_DWI facilities (Q.31a),4,17-30
+T_CLIHI_D,Total number of hospital inpatients -- for DUI_DWI facilities (Q.31a),5,31+
+T_CLIHI_O,Total number of hospital inpatients -- for OTP facilities (Q.31a),.,Logical skip
+T_CLIHI_O,Total number of hospital inpatients -- for OTP facilities (Q.31a),1,0-8
+T_CLIHI_O,Total number of hospital inpatients -- for OTP facilities (Q.31a),2,9-15
+T_CLIHI_O,Total number of hospital inpatients -- for OTP facilities (Q.31a),3,16-25
+T_CLIHI_O,Total number of hospital inpatients -- for OTP facilities (Q.31a),4,26-44
+T_CLIHI_O,Total number of hospital inpatients -- for OTP facilities (Q.31a),5,45+
+T_CLIHI_X,Total number of hospital inpatients -- for non-OTP and non-DUI_DWI facilities (Q.31a),.,Logical skip
+T_CLIHI_X,Total number of hospital inpatients -- for non-OTP and non-DUI_DWI facilities (Q.31a),1,0-4
+T_CLIHI_X,Total number of hospital inpatients -- for non-OTP and non-DUI_DWI facilities (Q.31a),2,5-8
+T_CLIHI_X,Total number of hospital inpatients -- for non-OTP and non-DUI_DWI facilities (Q.31a),3,9-15
+T_CLIHI_X,Total number of hospital inpatients -- for non-OTP and non-DUI_DWI facilities (Q.31a),4,16-27
+T_CLIHI_X,Total number of hospital inpatients -- for non-OTP and non-DUI_DWI facilities (Q.31a),5,28+
+T_CLIML_D,"Outpatient clients, methadone maintenance -- for DUI_DWI facilities (Q.33a)",.,Logical skip
+T_CLIML_D,"Outpatient clients, methadone maintenance -- for DUI_DWI facilities (Q.33a)",1,0-4
+T_CLIML_D,"Outpatient clients, methadone maintenance -- for DUI_DWI facilities (Q.33a)",2,5-10
+T_CLIML_D,"Outpatient clients, methadone maintenance -- for DUI_DWI facilities (Q.33a)",3,11-21
+T_CLIML_D,"Outpatient clients, methadone maintenance -- for DUI_DWI facilities (Q.33a)",4,22-49
+T_CLIML_D,"Outpatient clients, methadone maintenance -- for DUI_DWI facilities (Q.33a)",5,50+
+T_CLIML_O,"Outpatient clients, methadone maintenance -- for OTP facilities (Q.33a)",.,Logical skip
+T_CLIML_O,"Outpatient clients, methadone maintenance -- for OTP facilities (Q.33a)",1,0-115
+T_CLIML_O,"Outpatient clients, methadone maintenance -- for OTP facilities (Q.33a)",2,116-200
+T_CLIML_O,"Outpatient clients, methadone maintenance -- for OTP facilities (Q.33a)",3,201-300
+T_CLIML_O,"Outpatient clients, methadone maintenance -- for OTP facilities (Q.33a)",4,301-460
+T_CLIML_O,"Outpatient clients, methadone maintenance -- for OTP facilities (Q.33a)",5,461+
+T_CLIML_X,"Outpatient clients, methadone maintenance -- for non-OTP and non-DUI_DWI facilities (Q.33a)",.,Logical skip
+T_CLIML_X,"Outpatient clients, methadone maintenance -- for non-OTP and non-DUI_DWI facilities (Q.33a)",1,0-5
+T_CLIML_X,"Outpatient clients, methadone maintenance -- for non-OTP and non-DUI_DWI facilities (Q.33a)",2,6-15
+T_CLIML_X,"Outpatient clients, methadone maintenance -- for non-OTP and non-DUI_DWI facilities (Q.33a)",3,16-34
+T_CLIML_X,"Outpatient clients, methadone maintenance -- for non-OTP and non-DUI_DWI facilities (Q.33a)",4,35-90
+T_CLIML_X,"Outpatient clients, methadone maintenance -- for non-OTP and non-DUI_DWI facilities (Q.33a)",5,91+
+T_CLIOP_D,Total number of outpatient clients -- for DUI_DWI facilities (Q.33a),.,Logical skip
+T_CLIOP_D,Total number of outpatient clients -- for DUI_DWI facilities (Q.33a),1,0-19
+T_CLIOP_D,Total number of outpatient clients -- for DUI_DWI facilities (Q.33a),2,20-39
+T_CLIOP_D,Total number of outpatient clients -- for DUI_DWI facilities (Q.33a),3,40-69
+T_CLIOP_D,Total number of outpatient clients -- for DUI_DWI facilities (Q.33a),4,70-131
+T_CLIOP_D,Total number of outpatient clients -- for DUI_DWI facilities (Q.33a),5,132+
+T_CLIOP_O,Total number of outpatient clients -- for OTP facilities (Q.33a),.,Logical skip
+T_CLIOP_O,Total number of outpatient clients -- for OTP facilities (Q.33a),1,0-130
+T_CLIOP_O,Total number of outpatient clients -- for OTP facilities (Q.33a),2,131-220
+T_CLIOP_O,Total number of outpatient clients -- for OTP facilities (Q.33a),3,221-325
+T_CLIOP_O,Total number of outpatient clients -- for OTP facilities (Q.33a),4,326-499
+T_CLIOP_O,Total number of outpatient clients -- for OTP facilities (Q.33a),5,500+
+T_CLIOP_X,Total number of outpatient clients -- for non-OTP and non-DUI_DWI facilities (Q.33a),.,Logical skip
+T_CLIOP_X,Total number of outpatient clients -- for non-OTP and non-DUI_DWI facilities (Q.33a),1,0-12
+T_CLIOP_X,Total number of outpatient clients -- for non-OTP and non-DUI_DWI facilities (Q.33a),2,13-27
+T_CLIOP_X,Total number of outpatient clients -- for non-OTP and non-DUI_DWI facilities (Q.33a),3,28-51
+T_CLIOP_X,Total number of outpatient clients -- for non-OTP and non-DUI_DWI facilities (Q.33a),4,52-106
+T_CLIOP_X,Total number of outpatient clients -- for non-OTP and non-DUI_DWI facilities (Q.33a),5,107+
+T_CLIRC_D,Total number of residential clients -- for DUI_DWI facilities (Q.32a),.,Logical skip
+T_CLIRC_D,Total number of residential clients -- for DUI_DWI facilities (Q.32a),1,0-10
+T_CLIRC_D,Total number of residential clients -- for DUI_DWI facilities (Q.32a),2,11-17
+T_CLIRC_D,Total number of residential clients -- for DUI_DWI facilities (Q.32a),3,18-28
+T_CLIRC_D,Total number of residential clients -- for DUI_DWI facilities (Q.32a),4,29-50
+T_CLIRC_D,Total number of residential clients -- for DUI_DWI facilities (Q.32a),5,51+
+T_CLIRC_O,Total number of residential clients -- for OTP facilities (Q.32a),.,Logical skip
+T_CLIRC_O,Total number of residential clients -- for OTP facilities (Q.32a),1,0-16
+T_CLIRC_O,Total number of residential clients -- for OTP facilities (Q.32a),2,17-26
+T_CLIRC_O,Total number of residential clients -- for OTP facilities (Q.32a),3,27-41
+T_CLIRC_O,Total number of residential clients -- for OTP facilities (Q.32a),4,42-78
+T_CLIRC_O,Total number of residential clients -- for OTP facilities (Q.32a),5,79+
+T_CLIRC_X,Total number of residential clients -- for non-OTP and non-DUI_DWI facilities (Q.32a),.,Logical skip
+T_CLIRC_X,Total number of residential clients -- for non-OTP and non-DUI_DWI facilities (Q.32a),1,0-10
+T_CLIRC_X,Total number of residential clients -- for non-OTP and non-DUI_DWI facilities (Q.32a),2,11-15
+T_CLIRC_X,Total number of residential clients -- for non-OTP and non-DUI_DWI facilities (Q.32a),3,16-23
+T_CLIRC_X,Total number of residential clients -- for non-OTP and non-DUI_DWI facilities (Q.32a),4,24-40
+T_CLIRC_X,Total number of residential clients -- for non-OTP and non-DUI_DWI facilities (Q.32a),5,41+

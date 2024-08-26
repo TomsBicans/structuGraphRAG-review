@@ -1,0 +1,16 @@
+"National Household Education Surveys","",""
+"Parent and Family Involvement in Education Survey Public Use Datafile Codebook","",""
+"","Jackknife replicate weights were produced for this data file. In addition to the final weight (FPWT), 80",""
+"","replicate weights (FPWT1-FPWT80) should be used when calculating weighted frequencies for variables to",""
+"obtain correct estimates and standard errors.","",""
+"Item:  BASMID","",""
+"Label: 
+Unique child identifier","",""
+"C11
+Format:","",""
+"Position:  1-11","",""
+"Special
+Type:","",""
+"Range","","Answered"
+"20191000012 - 20191225500","","16,446"
+"","1",""
